@@ -52,6 +52,7 @@ ui <- fluidPage(
            HTML("<p> Los cambios para cada día se comparan con una línea base para el mismo día de la semana:
            el valor base es la mediana, para el correspondiente día de la semana, durante el periodo de 5 
            semanas del 3 de enero al 6 de febrero de 2020. <p>"),
+           br(),
            h4("Fuente:"),
            em("Google LLC 'Google COVID-19 Community Mobility Reports'"),
            HTML("<a href=https://www.google.com/covid19/mobility/> https://www.google.com/covid19/mobility/ </a>"),
