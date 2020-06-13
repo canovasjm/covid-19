@@ -629,6 +629,60 @@ Argentina,Todas las provincias,2020-05-29,parks,-86
 Argentina,Todas las provincias,2020-05-29,transit_stations,-52
 Argentina,Todas las provincias,2020-05-29,workplaces,-29
 Argentina,Todas las provincias,2020-05-29,residential,21
+Argentina,Todas las provincias,2020-05-30,retail_and_recreation,-71
+Argentina,Todas las provincias,2020-05-30,grocery_and_pharmacy,-19
+Argentina,Todas las provincias,2020-05-30,parks,-89
+Argentina,Todas las provincias,2020-05-30,transit_stations,-54
+Argentina,Todas las provincias,2020-05-30,workplaces,-22
+Argentina,Todas las provincias,2020-05-30,residential,20
+Argentina,Todas las provincias,2020-05-31,retail_and_recreation,-79
+Argentina,Todas las provincias,2020-05-31,grocery_and_pharmacy,-39
+Argentina,Todas las provincias,2020-05-31,parks,-90
+Argentina,Todas las provincias,2020-05-31,transit_stations,-65
+Argentina,Todas las provincias,2020-05-31,workplaces,-27
+Argentina,Todas las provincias,2020-05-31,residential,20
+Argentina,Todas las provincias,2020-06-01,retail_and_recreation,-67
+Argentina,Todas las provincias,2020-06-01,grocery_and_pharmacy,-24
+Argentina,Todas las provincias,2020-06-01,parks,-87
+Argentina,Todas las provincias,2020-06-01,transit_stations,-54
+Argentina,Todas las provincias,2020-06-01,workplaces,-29
+Argentina,Todas las provincias,2020-06-01,residential,18
+Argentina,Todas las provincias,2020-06-02,retail_and_recreation,-66
+Argentina,Todas las provincias,2020-06-02,grocery_and_pharmacy,-20
+Argentina,Todas las provincias,2020-06-02,parks,-85
+Argentina,Todas las provincias,2020-06-02,transit_stations,-52
+Argentina,Todas las provincias,2020-06-02,workplaces,-29
+Argentina,Todas las provincias,2020-06-02,residential,17
+Argentina,Todas las provincias,2020-06-03,retail_and_recreation,-67
+Argentina,Todas las provincias,2020-06-03,grocery_and_pharmacy,-21
+Argentina,Todas las provincias,2020-06-03,parks,-85
+Argentina,Todas las provincias,2020-06-03,transit_stations,-53
+Argentina,Todas las provincias,2020-06-03,workplaces,-28
+Argentina,Todas las provincias,2020-06-03,residential,17
+Argentina,Todas las provincias,2020-06-04,retail_and_recreation,-67
+Argentina,Todas las provincias,2020-06-04,grocery_and_pharmacy,-21
+Argentina,Todas las provincias,2020-06-04,parks,-86
+Argentina,Todas las provincias,2020-06-04,transit_stations,-53
+Argentina,Todas las provincias,2020-06-04,workplaces,-29
+Argentina,Todas las provincias,2020-06-04,residential,18
+Argentina,Todas las provincias,2020-06-05,retail_and_recreation,-65
+Argentina,Todas las provincias,2020-06-05,grocery_and_pharmacy,-16
+Argentina,Todas las provincias,2020-06-05,parks,-85
+Argentina,Todas las provincias,2020-06-05,transit_stations,-52
+Argentina,Todas las provincias,2020-06-05,workplaces,-28
+Argentina,Todas las provincias,2020-06-05,residential,20
+Argentina,Todas las provincias,2020-06-06,retail_and_recreation,-66
+Argentina,Todas las provincias,2020-06-06,grocery_and_pharmacy,-12
+Argentina,Todas las provincias,2020-06-06,parks,-86
+Argentina,Todas las provincias,2020-06-06,transit_stations,-50
+Argentina,Todas las provincias,2020-06-06,workplaces,-19
+Argentina,Todas las provincias,2020-06-06,residential,18
+Argentina,Todas las provincias,2020-06-07,retail_and_recreation,-75
+Argentina,Todas las provincias,2020-06-07,grocery_and_pharmacy,-33
+Argentina,Todas las provincias,2020-06-07,parks,-88
+Argentina,Todas las provincias,2020-06-07,transit_stations,-61
+Argentina,Todas las provincias,2020-06-07,workplaces,-22
+Argentina,Todas las provincias,2020-06-07,residential,18
 Argentina,CABA,2020-02-15,retail_and_recreation,6
 Argentina,CABA,2020-02-15,grocery_and_pharmacy,1
 Argentina,CABA,2020-02-15,parks,6
@@ -1259,6 +1313,60 @@ Argentina,CABA,2020-05-29,parks,-85
 Argentina,CABA,2020-05-29,transit_stations,-65
 Argentina,CABA,2020-05-29,workplaces,-56
 Argentina,CABA,2020-05-29,residential,32
+Argentina,CABA,2020-05-30,retail_and_recreation,-80
+Argentina,CABA,2020-05-30,grocery_and_pharmacy,-16
+Argentina,CABA,2020-05-30,parks,-88
+Argentina,CABA,2020-05-30,transit_stations,-65
+Argentina,CABA,2020-05-30,workplaces,-43
+Argentina,CABA,2020-05-30,residential,27
+Argentina,CABA,2020-05-31,retail_and_recreation,-81
+Argentina,CABA,2020-05-31,grocery_and_pharmacy,-28
+Argentina,CABA,2020-05-31,parks,-89
+Argentina,CABA,2020-05-31,transit_stations,-69
+Argentina,CABA,2020-05-31,workplaces,-46
+Argentina,CABA,2020-05-31,residential,26
+Argentina,CABA,2020-06-01,retail_and_recreation,-77
+Argentina,CABA,2020-06-01,grocery_and_pharmacy,-24
+Argentina,CABA,2020-06-01,parks,-86
+Argentina,CABA,2020-06-01,transit_stations,-67
+Argentina,CABA,2020-06-01,workplaces,-57
+Argentina,CABA,2020-06-01,residential,28
+Argentina,CABA,2020-06-02,retail_and_recreation,-76
+Argentina,CABA,2020-06-02,grocery_and_pharmacy,-20
+Argentina,CABA,2020-06-02,parks,-85
+Argentina,CABA,2020-06-02,transit_stations,-67
+Argentina,CABA,2020-06-02,workplaces,-57
+Argentina,CABA,2020-06-02,residential,28
+Argentina,CABA,2020-06-03,retail_and_recreation,-76
+Argentina,CABA,2020-06-03,grocery_and_pharmacy,-17
+Argentina,CABA,2020-06-03,parks,-84
+Argentina,CABA,2020-06-03,transit_stations,-67
+Argentina,CABA,2020-06-03,workplaces,-56
+Argentina,CABA,2020-06-03,residential,27
+Argentina,CABA,2020-06-04,retail_and_recreation,-77
+Argentina,CABA,2020-06-04,grocery_and_pharmacy,-18
+Argentina,CABA,2020-06-04,parks,-84
+Argentina,CABA,2020-06-04,transit_stations,-67
+Argentina,CABA,2020-06-04,workplaces,-57
+Argentina,CABA,2020-06-04,residential,29
+Argentina,CABA,2020-06-05,retail_and_recreation,-76
+Argentina,CABA,2020-06-05,grocery_and_pharmacy,-19
+Argentina,CABA,2020-06-05,parks,-84
+Argentina,CABA,2020-06-05,transit_stations,-66
+Argentina,CABA,2020-06-05,workplaces,-56
+Argentina,CABA,2020-06-05,residential,32
+Argentina,CABA,2020-06-06,retail_and_recreation,-78
+Argentina,CABA,2020-06-06,grocery_and_pharmacy,-12
+Argentina,CABA,2020-06-06,parks,-86
+Argentina,CABA,2020-06-06,transit_stations,-64
+Argentina,CABA,2020-06-06,workplaces,-42
+Argentina,CABA,2020-06-06,residential,26
+Argentina,CABA,2020-06-07,retail_and_recreation,-80
+Argentina,CABA,2020-06-07,grocery_and_pharmacy,-25
+Argentina,CABA,2020-06-07,parks,-86
+Argentina,CABA,2020-06-07,transit_stations,-68
+Argentina,CABA,2020-06-07,workplaces,-44
+Argentina,CABA,2020-06-07,residential,25
 Argentina,Buenos Aires,2020-02-15,retail_and_recreation,-1
 Argentina,Buenos Aires,2020-02-15,grocery_and_pharmacy,-2
 Argentina,Buenos Aires,2020-02-15,parks,0
@@ -1889,6 +1997,60 @@ Argentina,Buenos Aires,2020-05-29,parks,-90
 Argentina,Buenos Aires,2020-05-29,transit_stations,-50
 Argentina,Buenos Aires,2020-05-29,workplaces,-36
 Argentina,Buenos Aires,2020-05-29,residential,23
+Argentina,Buenos Aires,2020-05-30,retail_and_recreation,-75
+Argentina,Buenos Aires,2020-05-30,grocery_and_pharmacy,-25
+Argentina,Buenos Aires,2020-05-30,parks,-93
+Argentina,Buenos Aires,2020-05-30,transit_stations,-55
+Argentina,Buenos Aires,2020-05-30,workplaces,-31
+Argentina,Buenos Aires,2020-05-30,residential,22
+Argentina,Buenos Aires,2020-05-31,retail_and_recreation,-83
+Argentina,Buenos Aires,2020-05-31,grocery_and_pharmacy,-45
+Argentina,Buenos Aires,2020-05-31,parks,-95
+Argentina,Buenos Aires,2020-05-31,transit_stations,-67
+Argentina,Buenos Aires,2020-05-31,workplaces,-36
+Argentina,Buenos Aires,2020-05-31,residential,21
+Argentina,Buenos Aires,2020-06-01,retail_and_recreation,-71
+Argentina,Buenos Aires,2020-06-01,grocery_and_pharmacy,-28
+Argentina,Buenos Aires,2020-06-01,parks,-90
+Argentina,Buenos Aires,2020-06-01,transit_stations,-52
+Argentina,Buenos Aires,2020-06-01,workplaces,-35
+Argentina,Buenos Aires,2020-06-01,residential,20
+Argentina,Buenos Aires,2020-06-02,retail_and_recreation,-69
+Argentina,Buenos Aires,2020-06-02,grocery_and_pharmacy,-23
+Argentina,Buenos Aires,2020-06-02,parks,-89
+Argentina,Buenos Aires,2020-06-02,transit_stations,-49
+Argentina,Buenos Aires,2020-06-02,workplaces,-35
+Argentina,Buenos Aires,2020-06-02,residential,19
+Argentina,Buenos Aires,2020-06-03,retail_and_recreation,-70
+Argentina,Buenos Aires,2020-06-03,grocery_and_pharmacy,-25
+Argentina,Buenos Aires,2020-06-03,parks,-88
+Argentina,Buenos Aires,2020-06-03,transit_stations,-50
+Argentina,Buenos Aires,2020-06-03,workplaces,-35
+Argentina,Buenos Aires,2020-06-03,residential,19
+Argentina,Buenos Aires,2020-06-04,retail_and_recreation,-69
+Argentina,Buenos Aires,2020-06-04,grocery_and_pharmacy,-22
+Argentina,Buenos Aires,2020-06-04,parks,-89
+Argentina,Buenos Aires,2020-06-04,transit_stations,-50
+Argentina,Buenos Aires,2020-06-04,workplaces,-36
+Argentina,Buenos Aires,2020-06-04,residential,20
+Argentina,Buenos Aires,2020-06-05,retail_and_recreation,-68
+Argentina,Buenos Aires,2020-06-05,grocery_and_pharmacy,-18
+Argentina,Buenos Aires,2020-06-05,parks,-89
+Argentina,Buenos Aires,2020-06-05,transit_stations,-49
+Argentina,Buenos Aires,2020-06-05,workplaces,-35
+Argentina,Buenos Aires,2020-06-05,residential,22
+Argentina,Buenos Aires,2020-06-06,retail_and_recreation,-71
+Argentina,Buenos Aires,2020-06-06,grocery_and_pharmacy,-18
+Argentina,Buenos Aires,2020-06-06,parks,-91
+Argentina,Buenos Aires,2020-06-06,transit_stations,-51
+Argentina,Buenos Aires,2020-06-06,workplaces,-29
+Argentina,Buenos Aires,2020-06-06,residential,21
+Argentina,Buenos Aires,2020-06-07,retail_and_recreation,-81
+Argentina,Buenos Aires,2020-06-07,grocery_and_pharmacy,-40
+Argentina,Buenos Aires,2020-06-07,parks,-94
+Argentina,Buenos Aires,2020-06-07,transit_stations,-64
+Argentina,Buenos Aires,2020-06-07,workplaces,-33
+Argentina,Buenos Aires,2020-06-07,residential,20
 Argentina,Catamarca,2020-02-15,retail_and_recreation,3
 Argentina,Catamarca,2020-02-15,grocery_and_pharmacy,3
 Argentina,Catamarca,2020-02-15,parks,-4
@@ -2519,6 +2681,60 @@ Argentina,Catamarca,2020-05-29,parks,-86
 Argentina,Catamarca,2020-05-29,transit_stations,-10
 Argentina,Catamarca,2020-05-29,workplaces,6
 Argentina,Catamarca,2020-05-29,residential,12
+Argentina,Catamarca,2020-05-30,retail_and_recreation,-51
+Argentina,Catamarca,2020-05-30,grocery_and_pharmacy,8
+Argentina,Catamarca,2020-05-30,parks,-87
+Argentina,Catamarca,2020-05-30,transit_stations,-32
+Argentina,Catamarca,2020-05-30,workplaces,4
+Argentina,Catamarca,2020-05-30,residential,14
+Argentina,Catamarca,2020-05-31,retail_and_recreation,-59
+Argentina,Catamarca,2020-05-31,grocery_and_pharmacy,-4
+Argentina,Catamarca,2020-05-31,parks,-88
+Argentina,Catamarca,2020-05-31,transit_stations,-64
+Argentina,Catamarca,2020-05-31,workplaces,1
+Argentina,Catamarca,2020-05-31,residential,18
+Argentina,Catamarca,2020-06-01,retail_and_recreation,-49
+Argentina,Catamarca,2020-06-01,grocery_and_pharmacy,2
+Argentina,Catamarca,2020-06-01,parks,-86
+Argentina,Catamarca,2020-06-01,transit_stations,-21
+Argentina,Catamarca,2020-06-01,workplaces,5
+Argentina,Catamarca,2020-06-01,residential,12
+Argentina,Catamarca,2020-06-02,retail_and_recreation,-48
+Argentina,Catamarca,2020-06-02,grocery_and_pharmacy,6
+Argentina,Catamarca,2020-06-02,parks,-85
+Argentina,Catamarca,2020-06-02,transit_stations,-28
+Argentina,Catamarca,2020-06-02,workplaces,5
+Argentina,Catamarca,2020-06-02,residential,11
+Argentina,Catamarca,2020-06-03,retail_and_recreation,-49
+Argentina,Catamarca,2020-06-03,grocery_and_pharmacy,2
+Argentina,Catamarca,2020-06-03,parks,-86
+Argentina,Catamarca,2020-06-03,transit_stations,-19
+Argentina,Catamarca,2020-06-03,workplaces,5
+Argentina,Catamarca,2020-06-03,residential,12
+Argentina,Catamarca,2020-06-04,retail_and_recreation,-54
+Argentina,Catamarca,2020-06-04,grocery_and_pharmacy,-8
+Argentina,Catamarca,2020-06-04,parks,-89
+Argentina,Catamarca,2020-06-04,transit_stations,-28
+Argentina,Catamarca,2020-06-04,workplaces,-1
+Argentina,Catamarca,2020-06-04,residential,15
+Argentina,Catamarca,2020-06-05,retail_and_recreation,-42
+Argentina,Catamarca,2020-06-05,grocery_and_pharmacy,14
+Argentina,Catamarca,2020-06-05,parks,-84
+Argentina,Catamarca,2020-06-05,transit_stations,-12
+Argentina,Catamarca,2020-06-05,workplaces,6
+Argentina,Catamarca,2020-06-05,residential,12
+Argentina,Catamarca,2020-06-06,retail_and_recreation,-42
+Argentina,Catamarca,2020-06-06,grocery_and_pharmacy,14
+Argentina,Catamarca,2020-06-06,parks,-82
+Argentina,Catamarca,2020-06-06,transit_stations,-34
+Argentina,Catamarca,2020-06-06,workplaces,9
+Argentina,Catamarca,2020-06-06,residential,11
+Argentina,Catamarca,2020-06-07,retail_and_recreation,-53
+Argentina,Catamarca,2020-06-07,grocery_and_pharmacy,7
+Argentina,Catamarca,2020-06-07,parks,-84
+Argentina,Catamarca,2020-06-07,transit_stations,-65
+Argentina,Catamarca,2020-06-07,workplaces,8
+Argentina,Catamarca,2020-06-07,residential,15
 Argentina,Chaco,2020-02-15,retail_and_recreation,-18
 Argentina,Chaco,2020-02-15,grocery_and_pharmacy,-19
 Argentina,Chaco,2020-02-15,parks,-35
@@ -3149,6 +3365,60 @@ Argentina,Chaco,2020-05-29,parks,-89
 Argentina,Chaco,2020-05-29,transit_stations,-71
 Argentina,Chaco,2020-05-29,workplaces,-20
 Argentina,Chaco,2020-05-29,residential,17
+Argentina,Chaco,2020-05-30,retail_and_recreation,-70
+Argentina,Chaco,2020-05-30,grocery_and_pharmacy,-16
+Argentina,Chaco,2020-05-30,parks,-90
+Argentina,Chaco,2020-05-30,transit_stations,-75
+Argentina,Chaco,2020-05-30,workplaces,-13
+Argentina,Chaco,2020-05-30,residential,14
+Argentina,Chaco,2020-05-31,retail_and_recreation,-82
+Argentina,Chaco,2020-05-31,grocery_and_pharmacy,-46
+Argentina,Chaco,2020-05-31,parks,-92
+Argentina,Chaco,2020-05-31,transit_stations,-84
+Argentina,Chaco,2020-05-31,workplaces,-23
+Argentina,Chaco,2020-05-31,residential,19
+Argentina,Chaco,2020-06-01,retail_and_recreation,-70
+Argentina,Chaco,2020-06-01,grocery_and_pharmacy,-21
+Argentina,Chaco,2020-06-01,parks,-89
+Argentina,Chaco,2020-06-01,transit_stations,-72
+Argentina,Chaco,2020-06-01,workplaces,-21
+Argentina,Chaco,2020-06-01,residential,16
+Argentina,Chaco,2020-06-02,retail_and_recreation,-67
+Argentina,Chaco,2020-06-02,grocery_and_pharmacy,-16
+Argentina,Chaco,2020-06-02,parks,-88
+Argentina,Chaco,2020-06-02,transit_stations,-70
+Argentina,Chaco,2020-06-02,workplaces,-21
+Argentina,Chaco,2020-06-02,residential,15
+Argentina,Chaco,2020-06-03,retail_and_recreation,-67
+Argentina,Chaco,2020-06-03,grocery_and_pharmacy,-17
+Argentina,Chaco,2020-06-03,parks,-86
+Argentina,Chaco,2020-06-03,transit_stations,-65
+Argentina,Chaco,2020-06-03,workplaces,-18
+Argentina,Chaco,2020-06-03,residential,14
+Argentina,Chaco,2020-06-04,retail_and_recreation,-69
+Argentina,Chaco,2020-06-04,grocery_and_pharmacy,-22
+Argentina,Chaco,2020-06-04,parks,-89
+Argentina,Chaco,2020-06-04,transit_stations,-72
+Argentina,Chaco,2020-06-04,workplaces,-22
+Argentina,Chaco,2020-06-04,residential,16
+Argentina,Chaco,2020-06-05,retail_and_recreation,-68
+Argentina,Chaco,2020-06-05,grocery_and_pharmacy,-16
+Argentina,Chaco,2020-06-05,parks,-90
+Argentina,Chaco,2020-06-05,transit_stations,-73
+Argentina,Chaco,2020-06-05,workplaces,-24
+Argentina,Chaco,2020-06-05,residential,18
+Argentina,Chaco,2020-06-06,retail_and_recreation,-65
+Argentina,Chaco,2020-06-06,grocery_and_pharmacy,-4
+Argentina,Chaco,2020-06-06,parks,-88
+Argentina,Chaco,2020-06-06,transit_stations,-74
+Argentina,Chaco,2020-06-06,workplaces,-10
+Argentina,Chaco,2020-06-06,residential,15
+Argentina,Chaco,2020-06-07,retail_and_recreation,-75
+Argentina,Chaco,2020-06-07,grocery_and_pharmacy,-32
+Argentina,Chaco,2020-06-07,parks,-89
+Argentina,Chaco,2020-06-07,transit_stations,-78
+Argentina,Chaco,2020-06-07,workplaces,-11
+Argentina,Chaco,2020-06-07,residential,16
 Argentina,Chubut,2020-02-15,retail_and_recreation,-1
 Argentina,Chubut,2020-02-15,grocery_and_pharmacy,-3
 Argentina,Chubut,2020-02-15,parks,-24
@@ -3779,6 +4049,60 @@ Argentina,Chubut,2020-05-29,parks,-88
 Argentina,Chubut,2020-05-29,transit_stations,-75
 Argentina,Chubut,2020-05-29,workplaces,-23
 Argentina,Chubut,2020-05-29,residential,21
+Argentina,Chubut,2020-05-30,retail_and_recreation,-64
+Argentina,Chubut,2020-05-30,grocery_and_pharmacy,-19
+Argentina,Chubut,2020-05-30,parks,-88
+Argentina,Chubut,2020-05-30,transit_stations,-78
+Argentina,Chubut,2020-05-30,workplaces,-16
+Argentina,Chubut,2020-05-30,residential,19
+Argentina,Chubut,2020-05-31,retail_and_recreation,-72
+Argentina,Chubut,2020-05-31,grocery_and_pharmacy,-30
+Argentina,Chubut,2020-05-31,parks,-88
+Argentina,Chubut,2020-05-31,transit_stations,-83
+Argentina,Chubut,2020-05-31,workplaces,-21
+Argentina,Chubut,2020-05-31,residential,17
+Argentina,Chubut,2020-06-01,retail_and_recreation,-65
+Argentina,Chubut,2020-06-01,grocery_and_pharmacy,-30
+Argentina,Chubut,2020-06-01,parks,-88
+Argentina,Chubut,2020-06-01,transit_stations,-76
+Argentina,Chubut,2020-06-01,workplaces,-20
+Argentina,Chubut,2020-06-01,residential,18
+Argentina,Chubut,2020-06-02,retail_and_recreation,-62
+Argentina,Chubut,2020-06-02,grocery_and_pharmacy,-27
+Argentina,Chubut,2020-06-02,parks,-84
+Argentina,Chubut,2020-06-02,transit_stations,-75
+Argentina,Chubut,2020-06-02,workplaces,-20
+Argentina,Chubut,2020-06-02,residential,16
+Argentina,Chubut,2020-06-03,retail_and_recreation,-64
+Argentina,Chubut,2020-06-03,grocery_and_pharmacy,-27
+Argentina,Chubut,2020-06-03,parks,-82
+Argentina,Chubut,2020-06-03,transit_stations,-73
+Argentina,Chubut,2020-06-03,workplaces,-19
+Argentina,Chubut,2020-06-03,residential,17
+Argentina,Chubut,2020-06-04,retail_and_recreation,-60
+Argentina,Chubut,2020-06-04,grocery_and_pharmacy,-23
+Argentina,Chubut,2020-06-04,parks,-83
+Argentina,Chubut,2020-06-04,transit_stations,-74
+Argentina,Chubut,2020-06-04,workplaces,-19
+Argentina,Chubut,2020-06-04,residential,17
+Argentina,Chubut,2020-06-05,retail_and_recreation,-54
+Argentina,Chubut,2020-06-05,grocery_and_pharmacy,-11
+Argentina,Chubut,2020-06-05,parks,-83
+Argentina,Chubut,2020-06-05,transit_stations,-71
+Argentina,Chubut,2020-06-05,workplaces,-17
+Argentina,Chubut,2020-06-05,residential,17
+Argentina,Chubut,2020-06-06,retail_and_recreation,-58
+Argentina,Chubut,2020-06-06,grocery_and_pharmacy,-11
+Argentina,Chubut,2020-06-06,parks,-86
+Argentina,Chubut,2020-06-06,transit_stations,-75
+Argentina,Chubut,2020-06-06,workplaces,-13
+Argentina,Chubut,2020-06-06,residential,18
+Argentina,Chubut,2020-06-07,retail_and_recreation,-69
+Argentina,Chubut,2020-06-07,grocery_and_pharmacy,-23
+Argentina,Chubut,2020-06-07,parks,-81
+Argentina,Chubut,2020-06-07,transit_stations,-81
+Argentina,Chubut,2020-06-07,workplaces,-18
+Argentina,Chubut,2020-06-07,residential,15
 Argentina,Cordoba,2020-02-15,retail_and_recreation,5
 Argentina,Cordoba,2020-02-15,grocery_and_pharmacy,-4
 Argentina,Cordoba,2020-02-15,parks,-7
@@ -4409,6 +4733,60 @@ Argentina,Cordoba,2020-05-29,parks,-86
 Argentina,Cordoba,2020-05-29,transit_stations,-72
 Argentina,Cordoba,2020-05-29,workplaces,-24
 Argentina,Cordoba,2020-05-29,residential,19
+Argentina,Cordoba,2020-05-30,retail_and_recreation,-70
+Argentina,Cordoba,2020-05-30,grocery_and_pharmacy,-24
+Argentina,Cordoba,2020-05-30,parks,-90
+Argentina,Cordoba,2020-05-30,transit_stations,-74
+Argentina,Cordoba,2020-05-30,workplaces,-19
+Argentina,Cordoba,2020-05-30,residential,20
+Argentina,Cordoba,2020-05-31,retail_and_recreation,-78
+Argentina,Cordoba,2020-05-31,grocery_and_pharmacy,-40
+Argentina,Cordoba,2020-05-31,parks,-89
+Argentina,Cordoba,2020-05-31,transit_stations,-81
+Argentina,Cordoba,2020-05-31,workplaces,-21
+Argentina,Cordoba,2020-05-31,residential,21
+Argentina,Cordoba,2020-06-01,retail_and_recreation,-67
+Argentina,Cordoba,2020-06-01,grocery_and_pharmacy,-30
+Argentina,Cordoba,2020-06-01,parks,-87
+Argentina,Cordoba,2020-06-01,transit_stations,-73
+Argentina,Cordoba,2020-06-01,workplaces,-24
+Argentina,Cordoba,2020-06-01,residential,18
+Argentina,Cordoba,2020-06-02,retail_and_recreation,-65
+Argentina,Cordoba,2020-06-02,grocery_and_pharmacy,-24
+Argentina,Cordoba,2020-06-02,parks,-86
+Argentina,Cordoba,2020-06-02,transit_stations,-71
+Argentina,Cordoba,2020-06-02,workplaces,-24
+Argentina,Cordoba,2020-06-02,residential,16
+Argentina,Cordoba,2020-06-03,retail_and_recreation,-67
+Argentina,Cordoba,2020-06-03,grocery_and_pharmacy,-27
+Argentina,Cordoba,2020-06-03,parks,-87
+Argentina,Cordoba,2020-06-03,transit_stations,-73
+Argentina,Cordoba,2020-06-03,workplaces,-24
+Argentina,Cordoba,2020-06-03,residential,17
+Argentina,Cordoba,2020-06-04,retail_and_recreation,-67
+Argentina,Cordoba,2020-06-04,grocery_and_pharmacy,-25
+Argentina,Cordoba,2020-06-04,parks,-86
+Argentina,Cordoba,2020-06-04,transit_stations,-72
+Argentina,Cordoba,2020-06-04,workplaces,-23
+Argentina,Cordoba,2020-06-04,residential,18
+Argentina,Cordoba,2020-06-05,retail_and_recreation,-61
+Argentina,Cordoba,2020-06-05,grocery_and_pharmacy,-16
+Argentina,Cordoba,2020-06-05,parks,-84
+Argentina,Cordoba,2020-06-05,transit_stations,-69
+Argentina,Cordoba,2020-06-05,workplaces,-20
+Argentina,Cordoba,2020-06-05,residential,18
+Argentina,Cordoba,2020-06-06,retail_and_recreation,-62
+Argentina,Cordoba,2020-06-06,grocery_and_pharmacy,-12
+Argentina,Cordoba,2020-06-06,parks,-84
+Argentina,Cordoba,2020-06-06,transit_stations,-67
+Argentina,Cordoba,2020-06-06,workplaces,-12
+Argentina,Cordoba,2020-06-06,residential,16
+Argentina,Cordoba,2020-06-07,retail_and_recreation,-73
+Argentina,Cordoba,2020-06-07,grocery_and_pharmacy,-31
+Argentina,Cordoba,2020-06-07,parks,-84
+Argentina,Cordoba,2020-06-07,transit_stations,-77
+Argentina,Cordoba,2020-06-07,workplaces,-14
+Argentina,Cordoba,2020-06-07,residential,18
 Argentina,Corrientes,2020-02-15,retail_and_recreation,-12
 Argentina,Corrientes,2020-02-15,grocery_and_pharmacy,-11
 Argentina,Corrientes,2020-02-15,parks,-31
@@ -5039,6 +5417,60 @@ Argentina,Corrientes,2020-05-29,parks,-78
 Argentina,Corrientes,2020-05-29,transit_stations,-64
 Argentina,Corrientes,2020-05-29,workplaces,-6
 Argentina,Corrientes,2020-05-29,residential,12
+Argentina,Corrientes,2020-05-30,retail_and_recreation,-60
+Argentina,Corrientes,2020-05-30,grocery_and_pharmacy,-13
+Argentina,Corrientes,2020-05-30,parks,-83
+Argentina,Corrientes,2020-05-30,transit_stations,-68
+Argentina,Corrientes,2020-05-30,workplaces,-5
+Argentina,Corrientes,2020-05-30,residential,11
+Argentina,Corrientes,2020-05-31,retail_and_recreation,-76
+Argentina,Corrientes,2020-05-31,grocery_and_pharmacy,-35
+Argentina,Corrientes,2020-05-31,parks,-91
+Argentina,Corrientes,2020-05-31,transit_stations,-83
+Argentina,Corrientes,2020-05-31,workplaces,-15
+Argentina,Corrientes,2020-05-31,residential,16
+Argentina,Corrientes,2020-06-01,retail_and_recreation,-57
+Argentina,Corrientes,2020-06-01,grocery_and_pharmacy,-17
+Argentina,Corrientes,2020-06-01,parks,-81
+Argentina,Corrientes,2020-06-01,transit_stations,-66
+Argentina,Corrientes,2020-06-01,workplaces,-7
+Argentina,Corrientes,2020-06-01,residential,11
+Argentina,Corrientes,2020-06-02,retail_and_recreation,-56
+Argentina,Corrientes,2020-06-02,grocery_and_pharmacy,-15
+Argentina,Corrientes,2020-06-02,parks,-77
+Argentina,Corrientes,2020-06-02,transit_stations,-64
+Argentina,Corrientes,2020-06-02,workplaces,-6
+Argentina,Corrientes,2020-06-02,residential,11
+Argentina,Corrientes,2020-06-03,retail_and_recreation,-55
+Argentina,Corrientes,2020-06-03,grocery_and_pharmacy,-12
+Argentina,Corrientes,2020-06-03,parks,-76
+Argentina,Corrientes,2020-06-03,transit_stations,-60
+Argentina,Corrientes,2020-06-03,workplaces,-4
+Argentina,Corrientes,2020-06-03,residential,10
+Argentina,Corrientes,2020-06-04,retail_and_recreation,-61
+Argentina,Corrientes,2020-06-04,grocery_and_pharmacy,-22
+Argentina,Corrientes,2020-06-04,parks,-81
+Argentina,Corrientes,2020-06-04,transit_stations,-63
+Argentina,Corrientes,2020-06-04,workplaces,-8
+Argentina,Corrientes,2020-06-04,residential,12
+Argentina,Corrientes,2020-06-05,retail_and_recreation,-62
+Argentina,Corrientes,2020-06-05,grocery_and_pharmacy,-23
+Argentina,Corrientes,2020-06-05,parks,-82
+Argentina,Corrientes,2020-06-05,transit_stations,-73
+Argentina,Corrientes,2020-06-05,workplaces,-14
+Argentina,Corrientes,2020-06-05,residential,16
+Argentina,Corrientes,2020-06-06,retail_and_recreation,-58
+Argentina,Corrientes,2020-06-06,grocery_and_pharmacy,-12
+Argentina,Corrientes,2020-06-06,parks,-82
+Argentina,Corrientes,2020-06-06,transit_stations,-70
+Argentina,Corrientes,2020-06-06,workplaces,-8
+Argentina,Corrientes,2020-06-06,residential,14
+Argentina,Corrientes,2020-06-07,retail_and_recreation,-67
+Argentina,Corrientes,2020-06-07,grocery_and_pharmacy,-24
+Argentina,Corrientes,2020-06-07,parks,-84
+Argentina,Corrientes,2020-06-07,transit_stations,-81
+Argentina,Corrientes,2020-06-07,workplaces,-4
+Argentina,Corrientes,2020-06-07,residential,14
 Argentina,Entre Rios,2020-02-15,retail_and_recreation,0
 Argentina,Entre Rios,2020-02-15,grocery_and_pharmacy,-4
 Argentina,Entre Rios,2020-02-15,parks,0
@@ -5669,6 +6101,60 @@ Argentina,Entre Rios,2020-05-29,parks,-87
 Argentina,Entre Rios,2020-05-29,transit_stations,-62
 Argentina,Entre Rios,2020-05-29,workplaces,-9
 Argentina,Entre Rios,2020-05-29,residential,14
+Argentina,Entre Rios,2020-05-30,retail_and_recreation,-69
+Argentina,Entre Rios,2020-05-30,grocery_and_pharmacy,-13
+Argentina,Entre Rios,2020-05-30,parks,-91
+Argentina,Entre Rios,2020-05-30,transit_stations,-71
+Argentina,Entre Rios,2020-05-30,workplaces,-10
+Argentina,Entre Rios,2020-05-30,residential,15
+Argentina,Entre Rios,2020-05-31,retail_and_recreation,-78
+Argentina,Entre Rios,2020-05-31,grocery_and_pharmacy,-30
+Argentina,Entre Rios,2020-05-31,parks,-91
+Argentina,Entre Rios,2020-05-31,transit_stations,-81
+Argentina,Entre Rios,2020-05-31,workplaces,-14
+Argentina,Entre Rios,2020-05-31,residential,19
+Argentina,Entre Rios,2020-06-01,retail_and_recreation,-61
+Argentina,Entre Rios,2020-06-01,grocery_and_pharmacy,-13
+Argentina,Entre Rios,2020-06-01,parks,-86
+Argentina,Entre Rios,2020-06-01,transit_stations,-62
+Argentina,Entre Rios,2020-06-01,workplaces,-10
+Argentina,Entre Rios,2020-06-01,residential,12
+Argentina,Entre Rios,2020-06-02,retail_and_recreation,-60
+Argentina,Entre Rios,2020-06-02,grocery_and_pharmacy,-11
+Argentina,Entre Rios,2020-06-02,parks,-85
+Argentina,Entre Rios,2020-06-02,transit_stations,-61
+Argentina,Entre Rios,2020-06-02,workplaces,-11
+Argentina,Entre Rios,2020-06-02,residential,12
+Argentina,Entre Rios,2020-06-03,retail_and_recreation,-60
+Argentina,Entre Rios,2020-06-03,grocery_and_pharmacy,-8
+Argentina,Entre Rios,2020-06-03,parks,-84
+Argentina,Entre Rios,2020-06-03,transit_stations,-57
+Argentina,Entre Rios,2020-06-03,workplaces,-10
+Argentina,Entre Rios,2020-06-03,residential,11
+Argentina,Entre Rios,2020-06-04,retail_and_recreation,-60
+Argentina,Entre Rios,2020-06-04,grocery_and_pharmacy,-9
+Argentina,Entre Rios,2020-06-04,parks,-85
+Argentina,Entre Rios,2020-06-04,transit_stations,-58
+Argentina,Entre Rios,2020-06-04,workplaces,-11
+Argentina,Entre Rios,2020-06-04,residential,11
+Argentina,Entre Rios,2020-06-05,retail_and_recreation,-69
+Argentina,Entre Rios,2020-06-05,grocery_and_pharmacy,-25
+Argentina,Entre Rios,2020-06-05,parks,-92
+Argentina,Entre Rios,2020-06-05,transit_stations,-70
+Argentina,Entre Rios,2020-06-05,workplaces,-18
+Argentina,Entre Rios,2020-06-05,residential,18
+Argentina,Entre Rios,2020-06-06,retail_and_recreation,-67
+Argentina,Entre Rios,2020-06-06,grocery_and_pharmacy,-10
+Argentina,Entre Rios,2020-06-06,parks,-93
+Argentina,Entre Rios,2020-06-06,transit_stations,-72
+Argentina,Entre Rios,2020-06-06,workplaces,-13
+Argentina,Entre Rios,2020-06-06,residential,17
+Argentina,Entre Rios,2020-06-07,retail_and_recreation,-76
+Argentina,Entre Rios,2020-06-07,grocery_and_pharmacy,-28
+Argentina,Entre Rios,2020-06-07,parks,-91
+Argentina,Entre Rios,2020-06-07,transit_stations,-81
+Argentina,Entre Rios,2020-06-07,workplaces,-13
+Argentina,Entre Rios,2020-06-07,residential,19
 Argentina,Formosa,2020-02-15,retail_and_recreation,-16
 Argentina,Formosa,2020-02-15,grocery_and_pharmacy,-14
 Argentina,Formosa,2020-02-15,parks,-27
@@ -6299,6 +6785,60 @@ Argentina,Formosa,2020-05-29,parks,-81
 Argentina,Formosa,2020-05-29,transit_stations,NA
 Argentina,Formosa,2020-05-29,workplaces,-3
 Argentina,Formosa,2020-05-29,residential,12
+Argentina,Formosa,2020-05-30,retail_and_recreation,-75
+Argentina,Formosa,2020-05-30,grocery_and_pharmacy,-14
+Argentina,Formosa,2020-05-30,parks,-77
+Argentina,Formosa,2020-05-30,transit_stations,NA
+Argentina,Formosa,2020-05-30,workplaces,-2
+Argentina,Formosa,2020-05-30,residential,11
+Argentina,Formosa,2020-05-31,retail_and_recreation,-81
+Argentina,Formosa,2020-05-31,grocery_and_pharmacy,-24
+Argentina,Formosa,2020-05-31,parks,-84
+Argentina,Formosa,2020-05-31,transit_stations,NA
+Argentina,Formosa,2020-05-31,workplaces,-6
+Argentina,Formosa,2020-05-31,residential,12
+Argentina,Formosa,2020-06-01,retail_and_recreation,-74
+Argentina,Formosa,2020-06-01,grocery_and_pharmacy,-15
+Argentina,Formosa,2020-06-01,parks,-81
+Argentina,Formosa,2020-06-01,transit_stations,NA
+Argentina,Formosa,2020-06-01,workplaces,-5
+Argentina,Formosa,2020-06-01,residential,12
+Argentina,Formosa,2020-06-02,retail_and_recreation,-70
+Argentina,Formosa,2020-06-02,grocery_and_pharmacy,-6
+Argentina,Formosa,2020-06-02,parks,-79
+Argentina,Formosa,2020-06-02,transit_stations,NA
+Argentina,Formosa,2020-06-02,workplaces,-4
+Argentina,Formosa,2020-06-02,residential,10
+Argentina,Formosa,2020-06-03,retail_and_recreation,-71
+Argentina,Formosa,2020-06-03,grocery_and_pharmacy,-10
+Argentina,Formosa,2020-06-03,parks,-79
+Argentina,Formosa,2020-06-03,transit_stations,NA
+Argentina,Formosa,2020-06-03,workplaces,-2
+Argentina,Formosa,2020-06-03,residential,10
+Argentina,Formosa,2020-06-04,retail_and_recreation,-76
+Argentina,Formosa,2020-06-04,grocery_and_pharmacy,-19
+Argentina,Formosa,2020-06-04,parks,-84
+Argentina,Formosa,2020-06-04,transit_stations,NA
+Argentina,Formosa,2020-06-04,workplaces,-13
+Argentina,Formosa,2020-06-04,residential,13
+Argentina,Formosa,2020-06-05,retail_and_recreation,-72
+Argentina,Formosa,2020-06-05,grocery_and_pharmacy,-10
+Argentina,Formosa,2020-06-05,parks,-83
+Argentina,Formosa,2020-06-05,transit_stations,NA
+Argentina,Formosa,2020-06-05,workplaces,-12
+Argentina,Formosa,2020-06-05,residential,15
+Argentina,Formosa,2020-06-06,retail_and_recreation,-70
+Argentina,Formosa,2020-06-06,grocery_and_pharmacy,-1
+Argentina,Formosa,2020-06-06,parks,-77
+Argentina,Formosa,2020-06-06,transit_stations,NA
+Argentina,Formosa,2020-06-06,workplaces,1
+Argentina,Formosa,2020-06-06,residential,12
+Argentina,Formosa,2020-06-07,retail_and_recreation,-75
+Argentina,Formosa,2020-06-07,grocery_and_pharmacy,-8
+Argentina,Formosa,2020-06-07,parks,-77
+Argentina,Formosa,2020-06-07,transit_stations,NA
+Argentina,Formosa,2020-06-07,workplaces,7
+Argentina,Formosa,2020-06-07,residential,9
 Argentina,Jujuy,2020-02-15,retail_and_recreation,-5
 Argentina,Jujuy,2020-02-15,grocery_and_pharmacy,1
 Argentina,Jujuy,2020-02-15,parks,-2
@@ -6929,6 +7469,60 @@ Argentina,Jujuy,2020-05-29,parks,-72
 Argentina,Jujuy,2020-05-29,transit_stations,-63
 Argentina,Jujuy,2020-05-29,workplaces,-5
 Argentina,Jujuy,2020-05-29,residential,14
+Argentina,Jujuy,2020-05-30,retail_and_recreation,-55
+Argentina,Jujuy,2020-05-30,grocery_and_pharmacy,-7
+Argentina,Jujuy,2020-05-30,parks,-72
+Argentina,Jujuy,2020-05-30,transit_stations,-67
+Argentina,Jujuy,2020-05-30,workplaces,-2
+Argentina,Jujuy,2020-05-30,residential,13
+Argentina,Jujuy,2020-05-31,retail_and_recreation,-71
+Argentina,Jujuy,2020-05-31,grocery_and_pharmacy,-25
+Argentina,Jujuy,2020-05-31,parks,-83
+Argentina,Jujuy,2020-05-31,transit_stations,-80
+Argentina,Jujuy,2020-05-31,workplaces,-9
+Argentina,Jujuy,2020-05-31,residential,17
+Argentina,Jujuy,2020-06-01,retail_and_recreation,-56
+Argentina,Jujuy,2020-06-01,grocery_and_pharmacy,-18
+Argentina,Jujuy,2020-06-01,parks,-77
+Argentina,Jujuy,2020-06-01,transit_stations,-65
+Argentina,Jujuy,2020-06-01,workplaces,-5
+Argentina,Jujuy,2020-06-01,residential,12
+Argentina,Jujuy,2020-06-02,retail_and_recreation,-50
+Argentina,Jujuy,2020-06-02,grocery_and_pharmacy,-6
+Argentina,Jujuy,2020-06-02,parks,-72
+Argentina,Jujuy,2020-06-02,transit_stations,-61
+Argentina,Jujuy,2020-06-02,workplaces,-4
+Argentina,Jujuy,2020-06-02,residential,11
+Argentina,Jujuy,2020-06-03,retail_and_recreation,-50
+Argentina,Jujuy,2020-06-03,grocery_and_pharmacy,-9
+Argentina,Jujuy,2020-06-03,parks,-71
+Argentina,Jujuy,2020-06-03,transit_stations,-59
+Argentina,Jujuy,2020-06-03,workplaces,-4
+Argentina,Jujuy,2020-06-03,residential,12
+Argentina,Jujuy,2020-06-04,retail_and_recreation,-55
+Argentina,Jujuy,2020-06-04,grocery_and_pharmacy,-11
+Argentina,Jujuy,2020-06-04,parks,-76
+Argentina,Jujuy,2020-06-04,transit_stations,-62
+Argentina,Jujuy,2020-06-04,workplaces,-5
+Argentina,Jujuy,2020-06-04,residential,13
+Argentina,Jujuy,2020-06-05,retail_and_recreation,-46
+Argentina,Jujuy,2020-06-05,grocery_and_pharmacy,-4
+Argentina,Jujuy,2020-06-05,parks,-71
+Argentina,Jujuy,2020-06-05,transit_stations,-55
+Argentina,Jujuy,2020-06-05,workplaces,-2
+Argentina,Jujuy,2020-06-05,residential,12
+Argentina,Jujuy,2020-06-06,retail_and_recreation,-48
+Argentina,Jujuy,2020-06-06,grocery_and_pharmacy,6
+Argentina,Jujuy,2020-06-06,parks,-71
+Argentina,Jujuy,2020-06-06,transit_stations,-60
+Argentina,Jujuy,2020-06-06,workplaces,3
+Argentina,Jujuy,2020-06-06,residential,11
+Argentina,Jujuy,2020-06-07,retail_and_recreation,-54
+Argentina,Jujuy,2020-06-07,grocery_and_pharmacy,6
+Argentina,Jujuy,2020-06-07,parks,-66
+Argentina,Jujuy,2020-06-07,transit_stations,-72
+Argentina,Jujuy,2020-06-07,workplaces,5
+Argentina,Jujuy,2020-06-07,residential,11
 Argentina,La Pampa,2020-02-15,retail_and_recreation,-3
 Argentina,La Pampa,2020-02-15,grocery_and_pharmacy,-2
 Argentina,La Pampa,2020-02-15,parks,4
@@ -7559,6 +8153,60 @@ Argentina,La Pampa,2020-05-29,parks,-85
 Argentina,La Pampa,2020-05-29,transit_stations,-40
 Argentina,La Pampa,2020-05-29,workplaces,-12
 Argentina,La Pampa,2020-05-29,residential,17
+Argentina,La Pampa,2020-05-30,retail_and_recreation,-64
+Argentina,La Pampa,2020-05-30,grocery_and_pharmacy,-7
+Argentina,La Pampa,2020-05-30,parks,-86
+Argentina,La Pampa,2020-05-30,transit_stations,-45
+Argentina,La Pampa,2020-05-30,workplaces,-8
+Argentina,La Pampa,2020-05-30,residential,16
+Argentina,La Pampa,2020-05-31,retail_and_recreation,-75
+Argentina,La Pampa,2020-05-31,grocery_and_pharmacy,-22
+Argentina,La Pampa,2020-05-31,parks,-83
+Argentina,La Pampa,2020-05-31,transit_stations,-62
+Argentina,La Pampa,2020-05-31,workplaces,-11
+Argentina,La Pampa,2020-05-31,residential,17
+Argentina,La Pampa,2020-06-01,retail_and_recreation,-57
+Argentina,La Pampa,2020-06-01,grocery_and_pharmacy,-9
+Argentina,La Pampa,2020-06-01,parks,-79
+Argentina,La Pampa,2020-06-01,transit_stations,-30
+Argentina,La Pampa,2020-06-01,workplaces,-8
+Argentina,La Pampa,2020-06-01,residential,12
+Argentina,La Pampa,2020-06-02,retail_and_recreation,-59
+Argentina,La Pampa,2020-06-02,grocery_and_pharmacy,-8
+Argentina,La Pampa,2020-06-02,parks,-81
+Argentina,La Pampa,2020-06-02,transit_stations,-27
+Argentina,La Pampa,2020-06-02,workplaces,-9
+Argentina,La Pampa,2020-06-02,residential,12
+Argentina,La Pampa,2020-06-03,retail_and_recreation,-61
+Argentina,La Pampa,2020-06-03,grocery_and_pharmacy,-17
+Argentina,La Pampa,2020-06-03,parks,-83
+Argentina,La Pampa,2020-06-03,transit_stations,-31
+Argentina,La Pampa,2020-06-03,workplaces,-9
+Argentina,La Pampa,2020-06-03,residential,13
+Argentina,La Pampa,2020-06-04,retail_and_recreation,-59
+Argentina,La Pampa,2020-06-04,grocery_and_pharmacy,-7
+Argentina,La Pampa,2020-06-04,parks,-80
+Argentina,La Pampa,2020-06-04,transit_stations,-20
+Argentina,La Pampa,2020-06-04,workplaces,-7
+Argentina,La Pampa,2020-06-04,residential,13
+Argentina,La Pampa,2020-06-05,retail_and_recreation,-53
+Argentina,La Pampa,2020-06-05,grocery_and_pharmacy,2
+Argentina,La Pampa,2020-06-05,parks,-80
+Argentina,La Pampa,2020-06-05,transit_stations,-21
+Argentina,La Pampa,2020-06-05,workplaces,-5
+Argentina,La Pampa,2020-06-05,residential,12
+Argentina,La Pampa,2020-06-06,retail_and_recreation,-52
+Argentina,La Pampa,2020-06-06,grocery_and_pharmacy,7
+Argentina,La Pampa,2020-06-06,parks,-79
+Argentina,La Pampa,2020-06-06,transit_stations,-33
+Argentina,La Pampa,2020-06-06,workplaces,4
+Argentina,La Pampa,2020-06-06,residential,8
+Argentina,La Pampa,2020-06-07,retail_and_recreation,-62
+Argentina,La Pampa,2020-06-07,grocery_and_pharmacy,-10
+Argentina,La Pampa,2020-06-07,parks,-75
+Argentina,La Pampa,2020-06-07,transit_stations,-51
+Argentina,La Pampa,2020-06-07,workplaces,-2
+Argentina,La Pampa,2020-06-07,residential,8
 Argentina,La Rioja,2020-02-15,retail_and_recreation,14
 Argentina,La Rioja,2020-02-15,grocery_and_pharmacy,11
 Argentina,La Rioja,2020-02-15,parks,21
@@ -8189,6 +8837,60 @@ Argentina,La Rioja,2020-05-29,parks,-92
 Argentina,La Rioja,2020-05-29,transit_stations,-59
 Argentina,La Rioja,2020-05-29,workplaces,-10
 Argentina,La Rioja,2020-05-29,residential,16
+Argentina,La Rioja,2020-05-30,retail_and_recreation,-60
+Argentina,La Rioja,2020-05-30,grocery_and_pharmacy,-4
+Argentina,La Rioja,2020-05-30,parks,-93
+Argentina,La Rioja,2020-05-30,transit_stations,-70
+Argentina,La Rioja,2020-05-30,workplaces,-3
+Argentina,La Rioja,2020-05-30,residential,15
+Argentina,La Rioja,2020-05-31,retail_and_recreation,-70
+Argentina,La Rioja,2020-05-31,grocery_and_pharmacy,-39
+Argentina,La Rioja,2020-05-31,parks,-94
+Argentina,La Rioja,2020-05-31,transit_stations,-83
+Argentina,La Rioja,2020-05-31,workplaces,-6
+Argentina,La Rioja,2020-05-31,residential,18
+Argentina,La Rioja,2020-06-01,retail_and_recreation,-60
+Argentina,La Rioja,2020-06-01,grocery_and_pharmacy,-10
+Argentina,La Rioja,2020-06-01,parks,-93
+Argentina,La Rioja,2020-06-01,transit_stations,-53
+Argentina,La Rioja,2020-06-01,workplaces,-8
+Argentina,La Rioja,2020-06-01,residential,13
+Argentina,La Rioja,2020-06-02,retail_and_recreation,-57
+Argentina,La Rioja,2020-06-02,grocery_and_pharmacy,-3
+Argentina,La Rioja,2020-06-02,parks,-92
+Argentina,La Rioja,2020-06-02,transit_stations,-53
+Argentina,La Rioja,2020-06-02,workplaces,-8
+Argentina,La Rioja,2020-06-02,residential,12
+Argentina,La Rioja,2020-06-03,retail_and_recreation,-59
+Argentina,La Rioja,2020-06-03,grocery_and_pharmacy,-6
+Argentina,La Rioja,2020-06-03,parks,-92
+Argentina,La Rioja,2020-06-03,transit_stations,-44
+Argentina,La Rioja,2020-06-03,workplaces,-9
+Argentina,La Rioja,2020-06-03,residential,13
+Argentina,La Rioja,2020-06-04,retail_and_recreation,-58
+Argentina,La Rioja,2020-06-04,grocery_and_pharmacy,-10
+Argentina,La Rioja,2020-06-04,parks,-92
+Argentina,La Rioja,2020-06-04,transit_stations,-49
+Argentina,La Rioja,2020-06-04,workplaces,-11
+Argentina,La Rioja,2020-06-04,residential,14
+Argentina,La Rioja,2020-06-05,retail_and_recreation,-54
+Argentina,La Rioja,2020-06-05,grocery_and_pharmacy,5
+Argentina,La Rioja,2020-06-05,parks,-91
+Argentina,La Rioja,2020-06-05,transit_stations,-46
+Argentina,La Rioja,2020-06-05,workplaces,-4
+Argentina,La Rioja,2020-06-05,residential,13
+Argentina,La Rioja,2020-06-06,retail_and_recreation,-53
+Argentina,La Rioja,2020-06-06,grocery_and_pharmacy,7
+Argentina,La Rioja,2020-06-06,parks,-91
+Argentina,La Rioja,2020-06-06,transit_stations,-64
+Argentina,La Rioja,2020-06-06,workplaces,4
+Argentina,La Rioja,2020-06-06,residential,12
+Argentina,La Rioja,2020-06-07,retail_and_recreation,-67
+Argentina,La Rioja,2020-06-07,grocery_and_pharmacy,-31
+Argentina,La Rioja,2020-06-07,parks,-93
+Argentina,La Rioja,2020-06-07,transit_stations,-74
+Argentina,La Rioja,2020-06-07,workplaces,0
+Argentina,La Rioja,2020-06-07,residential,16
 Argentina,Mendoza,2020-02-15,retail_and_recreation,8
 Argentina,Mendoza,2020-02-15,grocery_and_pharmacy,-1
 Argentina,Mendoza,2020-02-15,parks,0
@@ -8819,6 +9521,60 @@ Argentina,Mendoza,2020-05-29,parks,-86
 Argentina,Mendoza,2020-05-29,transit_stations,-30
 Argentina,Mendoza,2020-05-29,workplaces,-17
 Argentina,Mendoza,2020-05-29,residential,19
+Argentina,Mendoza,2020-05-30,retail_and_recreation,-57
+Argentina,Mendoza,2020-05-30,grocery_and_pharmacy,-12
+Argentina,Mendoza,2020-05-30,parks,-86
+Argentina,Mendoza,2020-05-30,transit_stations,-29
+Argentina,Mendoza,2020-05-30,workplaces,-7
+Argentina,Mendoza,2020-05-30,residential,16
+Argentina,Mendoza,2020-05-31,retail_and_recreation,-66
+Argentina,Mendoza,2020-05-31,grocery_and_pharmacy,-24
+Argentina,Mendoza,2020-05-31,parks,-87
+Argentina,Mendoza,2020-05-31,transit_stations,-34
+Argentina,Mendoza,2020-05-31,workplaces,-7
+Argentina,Mendoza,2020-05-31,residential,16
+Argentina,Mendoza,2020-06-01,retail_and_recreation,-57
+Argentina,Mendoza,2020-06-01,grocery_and_pharmacy,-23
+Argentina,Mendoza,2020-06-01,parks,-86
+Argentina,Mendoza,2020-06-01,transit_stations,-33
+Argentina,Mendoza,2020-06-01,workplaces,-17
+Argentina,Mendoza,2020-06-01,residential,16
+Argentina,Mendoza,2020-06-02,retail_and_recreation,-57
+Argentina,Mendoza,2020-06-02,grocery_and_pharmacy,-17
+Argentina,Mendoza,2020-06-02,parks,-86
+Argentina,Mendoza,2020-06-02,transit_stations,-31
+Argentina,Mendoza,2020-06-02,workplaces,-16
+Argentina,Mendoza,2020-06-02,residential,16
+Argentina,Mendoza,2020-06-03,retail_and_recreation,-65
+Argentina,Mendoza,2020-06-03,grocery_and_pharmacy,-32
+Argentina,Mendoza,2020-06-03,parks,-89
+Argentina,Mendoza,2020-06-03,transit_stations,-48
+Argentina,Mendoza,2020-06-03,workplaces,-23
+Argentina,Mendoza,2020-06-03,residential,20
+Argentina,Mendoza,2020-06-04,retail_and_recreation,-58
+Argentina,Mendoza,2020-06-04,grocery_and_pharmacy,-18
+Argentina,Mendoza,2020-06-04,parks,-87
+Argentina,Mendoza,2020-06-04,transit_stations,-33
+Argentina,Mendoza,2020-06-04,workplaces,-17
+Argentina,Mendoza,2020-06-04,residential,18
+Argentina,Mendoza,2020-06-05,retail_and_recreation,-53
+Argentina,Mendoza,2020-06-05,grocery_and_pharmacy,-10
+Argentina,Mendoza,2020-06-05,parks,-84
+Argentina,Mendoza,2020-06-05,transit_stations,-29
+Argentina,Mendoza,2020-06-05,workplaces,-14
+Argentina,Mendoza,2020-06-05,residential,18
+Argentina,Mendoza,2020-06-06,retail_and_recreation,-50
+Argentina,Mendoza,2020-06-06,grocery_and_pharmacy,-7
+Argentina,Mendoza,2020-06-06,parks,-83
+Argentina,Mendoza,2020-06-06,transit_stations,-23
+Argentina,Mendoza,2020-06-06,workplaces,-3
+Argentina,Mendoza,2020-06-06,residential,14
+Argentina,Mendoza,2020-06-07,retail_and_recreation,-61
+Argentina,Mendoza,2020-06-07,grocery_and_pharmacy,-19
+Argentina,Mendoza,2020-06-07,parks,-84
+Argentina,Mendoza,2020-06-07,transit_stations,-29
+Argentina,Mendoza,2020-06-07,workplaces,-3
+Argentina,Mendoza,2020-06-07,residential,14
 Argentina,Misiones,2020-02-15,retail_and_recreation,-7
 Argentina,Misiones,2020-02-15,grocery_and_pharmacy,-6
 Argentina,Misiones,2020-02-15,parks,-24
@@ -9449,6 +10205,60 @@ Argentina,Misiones,2020-05-29,parks,-77
 Argentina,Misiones,2020-05-29,transit_stations,-74
 Argentina,Misiones,2020-05-29,workplaces,-6
 Argentina,Misiones,2020-05-29,residential,13
+Argentina,Misiones,2020-05-30,retail_and_recreation,-55
+Argentina,Misiones,2020-05-30,grocery_and_pharmacy,-8
+Argentina,Misiones,2020-05-30,parks,-75
+Argentina,Misiones,2020-05-30,transit_stations,-75
+Argentina,Misiones,2020-05-30,workplaces,-5
+Argentina,Misiones,2020-05-30,residential,12
+Argentina,Misiones,2020-05-31,retail_and_recreation,-74
+Argentina,Misiones,2020-05-31,grocery_and_pharmacy,-30
+Argentina,Misiones,2020-05-31,parks,-84
+Argentina,Misiones,2020-05-31,transit_stations,-85
+Argentina,Misiones,2020-05-31,workplaces,-17
+Argentina,Misiones,2020-05-31,residential,17
+Argentina,Misiones,2020-06-01,retail_and_recreation,-55
+Argentina,Misiones,2020-06-01,grocery_and_pharmacy,-19
+Argentina,Misiones,2020-06-01,parks,-78
+Argentina,Misiones,2020-06-01,transit_stations,-73
+Argentina,Misiones,2020-06-01,workplaces,-6
+Argentina,Misiones,2020-06-01,residential,12
+Argentina,Misiones,2020-06-02,retail_and_recreation,-53
+Argentina,Misiones,2020-06-02,grocery_and_pharmacy,-14
+Argentina,Misiones,2020-06-02,parks,-76
+Argentina,Misiones,2020-06-02,transit_stations,-72
+Argentina,Misiones,2020-06-02,workplaces,-5
+Argentina,Misiones,2020-06-02,residential,11
+Argentina,Misiones,2020-06-03,retail_and_recreation,-52
+Argentina,Misiones,2020-06-03,grocery_and_pharmacy,-13
+Argentina,Misiones,2020-06-03,parks,-74
+Argentina,Misiones,2020-06-03,transit_stations,-72
+Argentina,Misiones,2020-06-03,workplaces,-3
+Argentina,Misiones,2020-06-03,residential,11
+Argentina,Misiones,2020-06-04,retail_and_recreation,-60
+Argentina,Misiones,2020-06-04,grocery_and_pharmacy,-24
+Argentina,Misiones,2020-06-04,parks,-82
+Argentina,Misiones,2020-06-04,transit_stations,-75
+Argentina,Misiones,2020-06-04,workplaces,-11
+Argentina,Misiones,2020-06-04,residential,14
+Argentina,Misiones,2020-06-05,retail_and_recreation,-61
+Argentina,Misiones,2020-06-05,grocery_and_pharmacy,-28
+Argentina,Misiones,2020-06-05,parks,-84
+Argentina,Misiones,2020-06-05,transit_stations,-77
+Argentina,Misiones,2020-06-05,workplaces,-15
+Argentina,Misiones,2020-06-05,residential,17
+Argentina,Misiones,2020-06-06,retail_and_recreation,-56
+Argentina,Misiones,2020-06-06,grocery_and_pharmacy,-10
+Argentina,Misiones,2020-06-06,parks,-80
+Argentina,Misiones,2020-06-06,transit_stations,-79
+Argentina,Misiones,2020-06-06,workplaces,-9
+Argentina,Misiones,2020-06-06,residential,15
+Argentina,Misiones,2020-06-07,retail_and_recreation,-65
+Argentina,Misiones,2020-06-07,grocery_and_pharmacy,-18
+Argentina,Misiones,2020-06-07,parks,-78
+Argentina,Misiones,2020-06-07,transit_stations,-82
+Argentina,Misiones,2020-06-07,workplaces,-6
+Argentina,Misiones,2020-06-07,residential,15
 Argentina,Neuquen,2020-02-15,retail_and_recreation,4
 Argentina,Neuquen,2020-02-15,grocery_and_pharmacy,1
 Argentina,Neuquen,2020-02-15,parks,17
@@ -10079,6 +10889,60 @@ Argentina,Neuquen,2020-05-29,parks,-89
 Argentina,Neuquen,2020-05-29,transit_stations,-60
 Argentina,Neuquen,2020-05-29,workplaces,-32
 Argentina,Neuquen,2020-05-29,residential,28
+Argentina,Neuquen,2020-05-30,retail_and_recreation,-68
+Argentina,Neuquen,2020-05-30,grocery_and_pharmacy,-19
+Argentina,Neuquen,2020-05-30,parks,-86
+Argentina,Neuquen,2020-05-30,transit_stations,-42
+Argentina,Neuquen,2020-05-30,workplaces,-17
+Argentina,Neuquen,2020-05-30,residential,22
+Argentina,Neuquen,2020-05-31,retail_and_recreation,-93
+Argentina,Neuquen,2020-05-31,grocery_and_pharmacy,-87
+Argentina,Neuquen,2020-05-31,parks,-91
+Argentina,Neuquen,2020-05-31,transit_stations,-75
+Argentina,Neuquen,2020-05-31,workplaces,-46
+Argentina,Neuquen,2020-05-31,residential,26
+Argentina,Neuquen,2020-06-01,retail_and_recreation,-63
+Argentina,Neuquen,2020-06-01,grocery_and_pharmacy,-25
+Argentina,Neuquen,2020-06-01,parks,-85
+Argentina,Neuquen,2020-06-01,transit_stations,-43
+Argentina,Neuquen,2020-06-01,workplaces,-22
+Argentina,Neuquen,2020-06-01,residential,19
+Argentina,Neuquen,2020-06-02,retail_and_recreation,-67
+Argentina,Neuquen,2020-06-02,grocery_and_pharmacy,-33
+Argentina,Neuquen,2020-06-02,parks,-84
+Argentina,Neuquen,2020-06-02,transit_stations,-43
+Argentina,Neuquen,2020-06-02,workplaces,-25
+Argentina,Neuquen,2020-06-02,residential,19
+Argentina,Neuquen,2020-06-03,retail_and_recreation,-66
+Argentina,Neuquen,2020-06-03,grocery_and_pharmacy,-30
+Argentina,Neuquen,2020-06-03,parks,-85
+Argentina,Neuquen,2020-06-03,transit_stations,-45
+Argentina,Neuquen,2020-06-03,workplaces,-24
+Argentina,Neuquen,2020-06-03,residential,20
+Argentina,Neuquen,2020-06-04,retail_and_recreation,-67
+Argentina,Neuquen,2020-06-04,grocery_and_pharmacy,-28
+Argentina,Neuquen,2020-06-04,parks,-84
+Argentina,Neuquen,2020-06-04,transit_stations,-43
+Argentina,Neuquen,2020-06-04,workplaces,-24
+Argentina,Neuquen,2020-06-04,residential,20
+Argentina,Neuquen,2020-06-05,retail_and_recreation,-61
+Argentina,Neuquen,2020-06-05,grocery_and_pharmacy,-19
+Argentina,Neuquen,2020-06-05,parks,-82
+Argentina,Neuquen,2020-06-05,transit_stations,-40
+Argentina,Neuquen,2020-06-05,workplaces,-22
+Argentina,Neuquen,2020-06-05,residential,22
+Argentina,Neuquen,2020-06-06,retail_and_recreation,-60
+Argentina,Neuquen,2020-06-06,grocery_and_pharmacy,-11
+Argentina,Neuquen,2020-06-06,parks,-84
+Argentina,Neuquen,2020-06-06,transit_stations,-29
+Argentina,Neuquen,2020-06-06,workplaces,-11
+Argentina,Neuquen,2020-06-06,residential,19
+Argentina,Neuquen,2020-06-07,retail_and_recreation,-91
+Argentina,Neuquen,2020-06-07,grocery_and_pharmacy,-83
+Argentina,Neuquen,2020-06-07,parks,-86
+Argentina,Neuquen,2020-06-07,transit_stations,-64
+Argentina,Neuquen,2020-06-07,workplaces,-39
+Argentina,Neuquen,2020-06-07,residential,24
 Argentina,Río Negro,2020-02-15,retail_and_recreation,1
 Argentina,Río Negro,2020-02-15,grocery_and_pharmacy,-1
 Argentina,Río Negro,2020-02-15,parks,-15
@@ -10709,6 +11573,60 @@ Argentina,Río Negro,2020-05-29,parks,-90
 Argentina,Río Negro,2020-05-29,transit_stations,-89
 Argentina,Río Negro,2020-05-29,workplaces,-33
 Argentina,Río Negro,2020-05-29,residential,27
+Argentina,Río Negro,2020-05-30,retail_and_recreation,-77
+Argentina,Río Negro,2020-05-30,grocery_and_pharmacy,-36
+Argentina,Río Negro,2020-05-30,parks,-89
+Argentina,Río Negro,2020-05-30,transit_stations,-91
+Argentina,Río Negro,2020-05-30,workplaces,-27
+Argentina,Río Negro,2020-05-30,residential,24
+Argentina,Río Negro,2020-05-31,retail_and_recreation,-91
+Argentina,Río Negro,2020-05-31,grocery_and_pharmacy,-86
+Argentina,Río Negro,2020-05-31,parks,-91
+Argentina,Río Negro,2020-05-31,transit_stations,-93
+Argentina,Río Negro,2020-05-31,workplaces,-40
+Argentina,Río Negro,2020-05-31,residential,24
+Argentina,Río Negro,2020-06-01,retail_and_recreation,-71
+Argentina,Río Negro,2020-06-01,grocery_and_pharmacy,-37
+Argentina,Río Negro,2020-06-01,parks,-86
+Argentina,Río Negro,2020-06-01,transit_stations,-86
+Argentina,Río Negro,2020-06-01,workplaces,-25
+Argentina,Río Negro,2020-06-01,residential,19
+Argentina,Río Negro,2020-06-02,retail_and_recreation,-74
+Argentina,Río Negro,2020-06-02,grocery_and_pharmacy,-38
+Argentina,Río Negro,2020-06-02,parks,-86
+Argentina,Río Negro,2020-06-02,transit_stations,-85
+Argentina,Río Negro,2020-06-02,workplaces,-27
+Argentina,Río Negro,2020-06-02,residential,20
+Argentina,Río Negro,2020-06-03,retail_and_recreation,-72
+Argentina,Río Negro,2020-06-03,grocery_and_pharmacy,-37
+Argentina,Río Negro,2020-06-03,parks,-85
+Argentina,Río Negro,2020-06-03,transit_stations,-85
+Argentina,Río Negro,2020-06-03,workplaces,-26
+Argentina,Río Negro,2020-06-03,residential,20
+Argentina,Río Negro,2020-06-04,retail_and_recreation,-74
+Argentina,Río Negro,2020-06-04,grocery_and_pharmacy,-39
+Argentina,Río Negro,2020-06-04,parks,-86
+Argentina,Río Negro,2020-06-04,transit_stations,-87
+Argentina,Río Negro,2020-06-04,workplaces,-27
+Argentina,Río Negro,2020-06-04,residential,21
+Argentina,Río Negro,2020-06-05,retail_and_recreation,-69
+Argentina,Río Negro,2020-06-05,grocery_and_pharmacy,-29
+Argentina,Río Negro,2020-06-05,parks,-85
+Argentina,Río Negro,2020-06-05,transit_stations,-86
+Argentina,Río Negro,2020-06-05,workplaces,-24
+Argentina,Río Negro,2020-06-05,residential,22
+Argentina,Río Negro,2020-06-06,retail_and_recreation,-72
+Argentina,Río Negro,2020-06-06,grocery_and_pharmacy,-28
+Argentina,Río Negro,2020-06-06,parks,-88
+Argentina,Río Negro,2020-06-06,transit_stations,-88
+Argentina,Río Negro,2020-06-06,workplaces,-21
+Argentina,Río Negro,2020-06-06,residential,21
+Argentina,Río Negro,2020-06-07,retail_and_recreation,-90
+Argentina,Río Negro,2020-06-07,grocery_and_pharmacy,-85
+Argentina,Río Negro,2020-06-07,parks,-88
+Argentina,Río Negro,2020-06-07,transit_stations,-92
+Argentina,Río Negro,2020-06-07,workplaces,-36
+Argentina,Río Negro,2020-06-07,residential,23
 Argentina,Salta,2020-02-15,retail_and_recreation,-1
 Argentina,Salta,2020-02-15,grocery_and_pharmacy,-2
 Argentina,Salta,2020-02-15,parks,-6
@@ -11339,6 +12257,60 @@ Argentina,Salta,2020-05-29,parks,-72
 Argentina,Salta,2020-05-29,transit_stations,-10
 Argentina,Salta,2020-05-29,workplaces,-8
 Argentina,Salta,2020-05-29,residential,13
+Argentina,Salta,2020-05-30,retail_and_recreation,-54
+Argentina,Salta,2020-05-30,grocery_and_pharmacy,-11
+Argentina,Salta,2020-05-30,parks,-78
+Argentina,Salta,2020-05-30,transit_stations,-8
+Argentina,Salta,2020-05-30,workplaces,-5
+Argentina,Salta,2020-05-30,residential,12
+Argentina,Salta,2020-05-31,retail_and_recreation,-69
+Argentina,Salta,2020-05-31,grocery_and_pharmacy,-29
+Argentina,Salta,2020-05-31,parks,-87
+Argentina,Salta,2020-05-31,transit_stations,-32
+Argentina,Salta,2020-05-31,workplaces,-12
+Argentina,Salta,2020-05-31,residential,16
+Argentina,Salta,2020-06-01,retail_and_recreation,-57
+Argentina,Salta,2020-06-01,grocery_and_pharmacy,-23
+Argentina,Salta,2020-06-01,parks,-78
+Argentina,Salta,2020-06-01,transit_stations,-20
+Argentina,Salta,2020-06-01,workplaces,-10
+Argentina,Salta,2020-06-01,residential,13
+Argentina,Salta,2020-06-02,retail_and_recreation,-54
+Argentina,Salta,2020-06-02,grocery_and_pharmacy,-19
+Argentina,Salta,2020-06-02,parks,-75
+Argentina,Salta,2020-06-02,transit_stations,-18
+Argentina,Salta,2020-06-02,workplaces,-10
+Argentina,Salta,2020-06-02,residential,13
+Argentina,Salta,2020-06-03,retail_and_recreation,-52
+Argentina,Salta,2020-06-03,grocery_and_pharmacy,-14
+Argentina,Salta,2020-06-03,parks,-74
+Argentina,Salta,2020-06-03,transit_stations,-16
+Argentina,Salta,2020-06-03,workplaces,-10
+Argentina,Salta,2020-06-03,residential,13
+Argentina,Salta,2020-06-04,retail_and_recreation,-57
+Argentina,Salta,2020-06-04,grocery_and_pharmacy,-20
+Argentina,Salta,2020-06-04,parks,-78
+Argentina,Salta,2020-06-04,transit_stations,-28
+Argentina,Salta,2020-06-04,workplaces,-12
+Argentina,Salta,2020-06-04,residential,14
+Argentina,Salta,2020-06-05,retail_and_recreation,-48
+Argentina,Salta,2020-06-05,grocery_and_pharmacy,-5
+Argentina,Salta,2020-06-05,parks,-72
+Argentina,Salta,2020-06-05,transit_stations,-9
+Argentina,Salta,2020-06-05,workplaces,-8
+Argentina,Salta,2020-06-05,residential,13
+Argentina,Salta,2020-06-06,retail_and_recreation,-48
+Argentina,Salta,2020-06-06,grocery_and_pharmacy,-1
+Argentina,Salta,2020-06-06,parks,-75
+Argentina,Salta,2020-06-06,transit_stations,-2
+Argentina,Salta,2020-06-06,workplaces,-4
+Argentina,Salta,2020-06-06,residential,12
+Argentina,Salta,2020-06-07,retail_and_recreation,-59
+Argentina,Salta,2020-06-07,grocery_and_pharmacy,-16
+Argentina,Salta,2020-06-07,parks,-80
+Argentina,Salta,2020-06-07,transit_stations,-15
+Argentina,Salta,2020-06-07,workplaces,-5
+Argentina,Salta,2020-06-07,residential,13
 Argentina,San Juan,2020-02-15,retail_and_recreation,2
 Argentina,San Juan,2020-02-15,grocery_and_pharmacy,3
 Argentina,San Juan,2020-02-15,parks,7
@@ -11969,6 +12941,60 @@ Argentina,San Juan,2020-05-29,parks,-86
 Argentina,San Juan,2020-05-29,transit_stations,-65
 Argentina,San Juan,2020-05-29,workplaces,-7
 Argentina,San Juan,2020-05-29,residential,15
+Argentina,San Juan,2020-05-30,retail_and_recreation,-61
+Argentina,San Juan,2020-05-30,grocery_and_pharmacy,-1
+Argentina,San Juan,2020-05-30,parks,-87
+Argentina,San Juan,2020-05-30,transit_stations,-71
+Argentina,San Juan,2020-05-30,workplaces,-5
+Argentina,San Juan,2020-05-30,residential,15
+Argentina,San Juan,2020-05-31,retail_and_recreation,-72
+Argentina,San Juan,2020-05-31,grocery_and_pharmacy,-22
+Argentina,San Juan,2020-05-31,parks,-90
+Argentina,San Juan,2020-05-31,transit_stations,-81
+Argentina,San Juan,2020-05-31,workplaces,-6
+Argentina,San Juan,2020-05-31,residential,15
+Argentina,San Juan,2020-06-01,retail_and_recreation,-57
+Argentina,San Juan,2020-06-01,grocery_and_pharmacy,-7
+Argentina,San Juan,2020-06-01,parks,-84
+Argentina,San Juan,2020-06-01,transit_stations,-66
+Argentina,San Juan,2020-06-01,workplaces,-5
+Argentina,San Juan,2020-06-01,residential,12
+Argentina,San Juan,2020-06-02,retail_and_recreation,-57
+Argentina,San Juan,2020-06-02,grocery_and_pharmacy,-5
+Argentina,San Juan,2020-06-02,parks,-85
+Argentina,San Juan,2020-06-02,transit_stations,-65
+Argentina,San Juan,2020-06-02,workplaces,-5
+Argentina,San Juan,2020-06-02,residential,13
+Argentina,San Juan,2020-06-03,retail_and_recreation,-64
+Argentina,San Juan,2020-06-03,grocery_and_pharmacy,-15
+Argentina,San Juan,2020-06-03,parks,-88
+Argentina,San Juan,2020-06-03,transit_stations,-72
+Argentina,San Juan,2020-06-03,workplaces,-10
+Argentina,San Juan,2020-06-03,residential,16
+Argentina,San Juan,2020-06-04,retail_and_recreation,-59
+Argentina,San Juan,2020-06-04,grocery_and_pharmacy,-4
+Argentina,San Juan,2020-06-04,parks,-86
+Argentina,San Juan,2020-06-04,transit_stations,-64
+Argentina,San Juan,2020-06-04,workplaces,-6
+Argentina,San Juan,2020-06-04,residential,14
+Argentina,San Juan,2020-06-05,retail_and_recreation,-48
+Argentina,San Juan,2020-06-05,grocery_and_pharmacy,6
+Argentina,San Juan,2020-06-05,parks,-85
+Argentina,San Juan,2020-06-05,transit_stations,-63
+Argentina,San Juan,2020-06-05,workplaces,-3
+Argentina,San Juan,2020-06-05,residential,13
+Argentina,San Juan,2020-06-06,retail_and_recreation,-47
+Argentina,San Juan,2020-06-06,grocery_and_pharmacy,9
+Argentina,San Juan,2020-06-06,parks,-83
+Argentina,San Juan,2020-06-06,transit_stations,-66
+Argentina,San Juan,2020-06-06,workplaces,1
+Argentina,San Juan,2020-06-06,residential,11
+Argentina,San Juan,2020-06-07,retail_and_recreation,-65
+Argentina,San Juan,2020-06-07,grocery_and_pharmacy,-16
+Argentina,San Juan,2020-06-07,parks,-89
+Argentina,San Juan,2020-06-07,transit_stations,-79
+Argentina,San Juan,2020-06-07,workplaces,-2
+Argentina,San Juan,2020-06-07,residential,13
 Argentina,San Luis,2020-02-15,retail_and_recreation,0
 Argentina,San Luis,2020-02-15,grocery_and_pharmacy,-4
 Argentina,San Luis,2020-02-15,parks,-1
@@ -12599,6 +13625,60 @@ Argentina,San Luis,2020-05-29,parks,-90
 Argentina,San Luis,2020-05-29,transit_stations,-72
 Argentina,San Luis,2020-05-29,workplaces,-14
 Argentina,San Luis,2020-05-29,residential,16
+Argentina,San Luis,2020-05-30,retail_and_recreation,-66
+Argentina,San Luis,2020-05-30,grocery_and_pharmacy,-8
+Argentina,San Luis,2020-05-30,parks,-89
+Argentina,San Luis,2020-05-30,transit_stations,-74
+Argentina,San Luis,2020-05-30,workplaces,-9
+Argentina,San Luis,2020-05-30,residential,13
+Argentina,San Luis,2020-05-31,retail_and_recreation,-71
+Argentina,San Luis,2020-05-31,grocery_and_pharmacy,-20
+Argentina,San Luis,2020-05-31,parks,-88
+Argentina,San Luis,2020-05-31,transit_stations,-80
+Argentina,San Luis,2020-05-31,workplaces,-6
+Argentina,San Luis,2020-05-31,residential,14
+Argentina,San Luis,2020-06-01,retail_and_recreation,-66
+Argentina,San Luis,2020-06-01,grocery_and_pharmacy,-29
+Argentina,San Luis,2020-06-01,parks,-91
+Argentina,San Luis,2020-06-01,transit_stations,-71
+Argentina,San Luis,2020-06-01,workplaces,-12
+Argentina,San Luis,2020-06-01,residential,15
+Argentina,San Luis,2020-06-02,retail_and_recreation,-62
+Argentina,San Luis,2020-06-02,grocery_and_pharmacy,-19
+Argentina,San Luis,2020-06-02,parks,-89
+Argentina,San Luis,2020-06-02,transit_stations,-70
+Argentina,San Luis,2020-06-02,workplaces,-11
+Argentina,San Luis,2020-06-02,residential,13
+Argentina,San Luis,2020-06-03,retail_and_recreation,-68
+Argentina,San Luis,2020-06-03,grocery_and_pharmacy,-29
+Argentina,San Luis,2020-06-03,parks,-91
+Argentina,San Luis,2020-06-03,transit_stations,-68
+Argentina,San Luis,2020-06-03,workplaces,-14
+Argentina,San Luis,2020-06-03,residential,15
+Argentina,San Luis,2020-06-04,retail_and_recreation,-65
+Argentina,San Luis,2020-06-04,grocery_and_pharmacy,-23
+Argentina,San Luis,2020-06-04,parks,-91
+Argentina,San Luis,2020-06-04,transit_stations,-64
+Argentina,San Luis,2020-06-04,workplaces,-12
+Argentina,San Luis,2020-06-04,residential,14
+Argentina,San Luis,2020-06-05,retail_and_recreation,-62
+Argentina,San Luis,2020-06-05,grocery_and_pharmacy,-15
+Argentina,San Luis,2020-06-05,parks,-90
+Argentina,San Luis,2020-06-05,transit_stations,-67
+Argentina,San Luis,2020-06-05,workplaces,-9
+Argentina,San Luis,2020-06-05,residential,15
+Argentina,San Luis,2020-06-06,retail_and_recreation,-55
+Argentina,San Luis,2020-06-06,grocery_and_pharmacy,3
+Argentina,San Luis,2020-06-06,parks,-85
+Argentina,San Luis,2020-06-06,transit_stations,-65
+Argentina,San Luis,2020-06-06,workplaces,1
+Argentina,San Luis,2020-06-06,residential,9
+Argentina,San Luis,2020-06-07,retail_and_recreation,-63
+Argentina,San Luis,2020-06-07,grocery_and_pharmacy,-13
+Argentina,San Luis,2020-06-07,parks,-84
+Argentina,San Luis,2020-06-07,transit_stations,-75
+Argentina,San Luis,2020-06-07,workplaces,-1
+Argentina,San Luis,2020-06-07,residential,11
 Argentina,Santa Cruz,2020-02-15,retail_and_recreation,4
 Argentina,Santa Cruz,2020-02-15,grocery_and_pharmacy,6
 Argentina,Santa Cruz,2020-02-15,parks,-4
@@ -13229,6 +14309,60 @@ Argentina,Santa Cruz,2020-05-29,parks,-72
 Argentina,Santa Cruz,2020-05-29,transit_stations,-77
 Argentina,Santa Cruz,2020-05-29,workplaces,-12
 Argentina,Santa Cruz,2020-05-29,residential,18
+Argentina,Santa Cruz,2020-05-30,retail_and_recreation,-59
+Argentina,Santa Cruz,2020-05-30,grocery_and_pharmacy,-11
+Argentina,Santa Cruz,2020-05-30,parks,-79
+Argentina,Santa Cruz,2020-05-30,transit_stations,-78
+Argentina,Santa Cruz,2020-05-30,workplaces,-9
+Argentina,Santa Cruz,2020-05-30,residential,15
+Argentina,Santa Cruz,2020-05-31,retail_and_recreation,-71
+Argentina,Santa Cruz,2020-05-31,grocery_and_pharmacy,-37
+Argentina,Santa Cruz,2020-05-31,parks,-81
+Argentina,Santa Cruz,2020-05-31,transit_stations,-83
+Argentina,Santa Cruz,2020-05-31,workplaces,-19
+Argentina,Santa Cruz,2020-05-31,residential,14
+Argentina,Santa Cruz,2020-06-01,retail_and_recreation,-61
+Argentina,Santa Cruz,2020-06-01,grocery_and_pharmacy,-19
+Argentina,Santa Cruz,2020-06-01,parks,-79
+Argentina,Santa Cruz,2020-06-01,transit_stations,-81
+Argentina,Santa Cruz,2020-06-01,workplaces,-13
+Argentina,Santa Cruz,2020-06-01,residential,17
+Argentina,Santa Cruz,2020-06-02,retail_and_recreation,-61
+Argentina,Santa Cruz,2020-06-02,grocery_and_pharmacy,-17
+Argentina,Santa Cruz,2020-06-02,parks,-77
+Argentina,Santa Cruz,2020-06-02,transit_stations,-80
+Argentina,Santa Cruz,2020-06-02,workplaces,-12
+Argentina,Santa Cruz,2020-06-02,residential,16
+Argentina,Santa Cruz,2020-06-03,retail_and_recreation,-60
+Argentina,Santa Cruz,2020-06-03,grocery_and_pharmacy,-17
+Argentina,Santa Cruz,2020-06-03,parks,-80
+Argentina,Santa Cruz,2020-06-03,transit_stations,-80
+Argentina,Santa Cruz,2020-06-03,workplaces,-13
+Argentina,Santa Cruz,2020-06-03,residential,17
+Argentina,Santa Cruz,2020-06-04,retail_and_recreation,-57
+Argentina,Santa Cruz,2020-06-04,grocery_and_pharmacy,-11
+Argentina,Santa Cruz,2020-06-04,parks,-72
+Argentina,Santa Cruz,2020-06-04,transit_stations,-80
+Argentina,Santa Cruz,2020-06-04,workplaces,-12
+Argentina,Santa Cruz,2020-06-04,residential,16
+Argentina,Santa Cruz,2020-06-05,retail_and_recreation,-50
+Argentina,Santa Cruz,2020-06-05,grocery_and_pharmacy,-1
+Argentina,Santa Cruz,2020-06-05,parks,-72
+Argentina,Santa Cruz,2020-06-05,transit_stations,-74
+Argentina,Santa Cruz,2020-06-05,workplaces,-8
+Argentina,Santa Cruz,2020-06-05,residential,16
+Argentina,Santa Cruz,2020-06-06,retail_and_recreation,-49
+Argentina,Santa Cruz,2020-06-06,grocery_and_pharmacy,-1
+Argentina,Santa Cruz,2020-06-06,parks,-75
+Argentina,Santa Cruz,2020-06-06,transit_stations,-77
+Argentina,Santa Cruz,2020-06-06,workplaces,-5
+Argentina,Santa Cruz,2020-06-06,residential,13
+Argentina,Santa Cruz,2020-06-07,retail_and_recreation,-67
+Argentina,Santa Cruz,2020-06-07,grocery_and_pharmacy,-26
+Argentina,Santa Cruz,2020-06-07,parks,-80
+Argentina,Santa Cruz,2020-06-07,transit_stations,-84
+Argentina,Santa Cruz,2020-06-07,workplaces,-16
+Argentina,Santa Cruz,2020-06-07,residential,13
 Argentina,Santa Fe,2020-02-15,retail_and_recreation,5
 Argentina,Santa Fe,2020-02-15,grocery_and_pharmacy,-3
 Argentina,Santa Fe,2020-02-15,parks,-2
@@ -13859,6 +14993,60 @@ Argentina,Santa Fe,2020-05-29,parks,-90
 Argentina,Santa Fe,2020-05-29,transit_stations,-20
 Argentina,Santa Fe,2020-05-29,workplaces,-17
 Argentina,Santa Fe,2020-05-29,residential,17
+Argentina,Santa Fe,2020-05-30,retail_and_recreation,-66
+Argentina,Santa Fe,2020-05-30,grocery_and_pharmacy,-13
+Argentina,Santa Fe,2020-05-30,parks,-92
+Argentina,Santa Fe,2020-05-30,transit_stations,-23
+Argentina,Santa Fe,2020-05-30,workplaces,-14
+Argentina,Santa Fe,2020-05-30,residential,18
+Argentina,Santa Fe,2020-05-31,retail_and_recreation,-75
+Argentina,Santa Fe,2020-05-31,grocery_and_pharmacy,-34
+Argentina,Santa Fe,2020-05-31,parks,-89
+Argentina,Santa Fe,2020-05-31,transit_stations,-45
+Argentina,Santa Fe,2020-05-31,workplaces,-18
+Argentina,Santa Fe,2020-05-31,residential,19
+Argentina,Santa Fe,2020-06-01,retail_and_recreation,-61
+Argentina,Santa Fe,2020-06-01,grocery_and_pharmacy,-18
+Argentina,Santa Fe,2020-06-01,parks,-90
+Argentina,Santa Fe,2020-06-01,transit_stations,-20
+Argentina,Santa Fe,2020-06-01,workplaces,-17
+Argentina,Santa Fe,2020-06-01,residential,14
+Argentina,Santa Fe,2020-06-02,retail_and_recreation,-60
+Argentina,Santa Fe,2020-06-02,grocery_and_pharmacy,-16
+Argentina,Santa Fe,2020-06-02,parks,-90
+Argentina,Santa Fe,2020-06-02,transit_stations,-14
+Argentina,Santa Fe,2020-06-02,workplaces,-17
+Argentina,Santa Fe,2020-06-02,residential,14
+Argentina,Santa Fe,2020-06-03,retail_and_recreation,-59
+Argentina,Santa Fe,2020-06-03,grocery_and_pharmacy,-11
+Argentina,Santa Fe,2020-06-03,parks,-88
+Argentina,Santa Fe,2020-06-03,transit_stations,-7
+Argentina,Santa Fe,2020-06-03,workplaces,-15
+Argentina,Santa Fe,2020-06-03,residential,12
+Argentina,Santa Fe,2020-06-04,retail_and_recreation,-60
+Argentina,Santa Fe,2020-06-04,grocery_and_pharmacy,-14
+Argentina,Santa Fe,2020-06-04,parks,-89
+Argentina,Santa Fe,2020-06-04,transit_stations,-9
+Argentina,Santa Fe,2020-06-04,workplaces,-17
+Argentina,Santa Fe,2020-06-04,residential,14
+Argentina,Santa Fe,2020-06-05,retail_and_recreation,-62
+Argentina,Santa Fe,2020-06-05,grocery_and_pharmacy,-16
+Argentina,Santa Fe,2020-06-05,parks,-92
+Argentina,Santa Fe,2020-06-05,transit_stations,-17
+Argentina,Santa Fe,2020-06-05,workplaces,-19
+Argentina,Santa Fe,2020-06-05,residential,17
+Argentina,Santa Fe,2020-06-06,retail_and_recreation,-59
+Argentina,Santa Fe,2020-06-06,grocery_and_pharmacy,-4
+Argentina,Santa Fe,2020-06-06,parks,-91
+Argentina,Santa Fe,2020-06-06,transit_stations,-8
+Argentina,Santa Fe,2020-06-06,workplaces,-11
+Argentina,Santa Fe,2020-06-06,residential,16
+Argentina,Santa Fe,2020-06-07,retail_and_recreation,-70
+Argentina,Santa Fe,2020-06-07,grocery_and_pharmacy,-27
+Argentina,Santa Fe,2020-06-07,parks,-88
+Argentina,Santa Fe,2020-06-07,transit_stations,-30
+Argentina,Santa Fe,2020-06-07,workplaces,-11
+Argentina,Santa Fe,2020-06-07,residential,16
 Argentina,Santiago del Estero,2020-02-15,retail_and_recreation,2
 Argentina,Santiago del Estero,2020-02-15,grocery_and_pharmacy,-3
 Argentina,Santiago del Estero,2020-02-15,parks,7
@@ -14489,6 +15677,60 @@ Argentina,Santiago del Estero,2020-05-29,parks,-76
 Argentina,Santiago del Estero,2020-05-29,transit_stations,-64
 Argentina,Santiago del Estero,2020-05-29,workplaces,-15
 Argentina,Santiago del Estero,2020-05-29,residential,15
+Argentina,Santiago del Estero,2020-05-30,retail_and_recreation,-75
+Argentina,Santiago del Estero,2020-05-30,grocery_and_pharmacy,-21
+Argentina,Santiago del Estero,2020-05-30,parks,-82
+Argentina,Santiago del Estero,2020-05-30,transit_stations,-77
+Argentina,Santiago del Estero,2020-05-30,workplaces,-20
+Argentina,Santiago del Estero,2020-05-30,residential,16
+Argentina,Santiago del Estero,2020-05-31,retail_and_recreation,-75
+Argentina,Santiago del Estero,2020-05-31,grocery_and_pharmacy,-24
+Argentina,Santiago del Estero,2020-05-31,parks,-80
+Argentina,Santiago del Estero,2020-05-31,transit_stations,-81
+Argentina,Santiago del Estero,2020-05-31,workplaces,-8
+Argentina,Santiago del Estero,2020-05-31,residential,17
+Argentina,Santiago del Estero,2020-06-01,retail_and_recreation,-61
+Argentina,Santiago del Estero,2020-06-01,grocery_and_pharmacy,-12
+Argentina,Santiago del Estero,2020-06-01,parks,-74
+Argentina,Santiago del Estero,2020-06-01,transit_stations,-66
+Argentina,Santiago del Estero,2020-06-01,workplaces,-13
+Argentina,Santiago del Estero,2020-06-01,residential,13
+Argentina,Santiago del Estero,2020-06-02,retail_and_recreation,-61
+Argentina,Santiago del Estero,2020-06-02,grocery_and_pharmacy,-9
+Argentina,Santiago del Estero,2020-06-02,parks,-73
+Argentina,Santiago del Estero,2020-06-02,transit_stations,-67
+Argentina,Santiago del Estero,2020-06-02,workplaces,-14
+Argentina,Santiago del Estero,2020-06-02,residential,13
+Argentina,Santiago del Estero,2020-06-03,retail_and_recreation,-62
+Argentina,Santiago del Estero,2020-06-03,grocery_and_pharmacy,-10
+Argentina,Santiago del Estero,2020-06-03,parks,-74
+Argentina,Santiago del Estero,2020-06-03,transit_stations,-65
+Argentina,Santiago del Estero,2020-06-03,workplaces,-14
+Argentina,Santiago del Estero,2020-06-03,residential,14
+Argentina,Santiago del Estero,2020-06-04,retail_and_recreation,-63
+Argentina,Santiago del Estero,2020-06-04,grocery_and_pharmacy,-14
+Argentina,Santiago del Estero,2020-06-04,parks,-75
+Argentina,Santiago del Estero,2020-06-04,transit_stations,-66
+Argentina,Santiago del Estero,2020-06-04,workplaces,-16
+Argentina,Santiago del Estero,2020-06-04,residential,15
+Argentina,Santiago del Estero,2020-06-05,retail_and_recreation,-60
+Argentina,Santiago del Estero,2020-06-05,grocery_and_pharmacy,-9
+Argentina,Santiago del Estero,2020-06-05,parks,-74
+Argentina,Santiago del Estero,2020-06-05,transit_stations,-64
+Argentina,Santiago del Estero,2020-06-05,workplaces,-12
+Argentina,Santiago del Estero,2020-06-05,residential,15
+Argentina,Santiago del Estero,2020-06-06,retail_and_recreation,-63
+Argentina,Santiago del Estero,2020-06-06,grocery_and_pharmacy,-6
+Argentina,Santiago del Estero,2020-06-06,parks,-73
+Argentina,Santiago del Estero,2020-06-06,transit_stations,-70
+Argentina,Santiago del Estero,2020-06-06,workplaces,-5
+Argentina,Santiago del Estero,2020-06-06,residential,13
+Argentina,Santiago del Estero,2020-06-07,retail_and_recreation,-71
+Argentina,Santiago del Estero,2020-06-07,grocery_and_pharmacy,-13
+Argentina,Santiago del Estero,2020-06-07,parks,-77
+Argentina,Santiago del Estero,2020-06-07,transit_stations,-80
+Argentina,Santiago del Estero,2020-06-07,workplaces,-2
+Argentina,Santiago del Estero,2020-06-07,residential,14
 Argentina,Tierra del Fuego,2020-02-15,retail_and_recreation,2
 Argentina,Tierra del Fuego,2020-02-15,grocery_and_pharmacy,-1
 Argentina,Tierra del Fuego,2020-02-15,parks,-28
@@ -15119,6 +16361,60 @@ Argentina,Tierra del Fuego,2020-05-29,parks,-76
 Argentina,Tierra del Fuego,2020-05-29,transit_stations,-74
 Argentina,Tierra del Fuego,2020-05-29,workplaces,-22
 Argentina,Tierra del Fuego,2020-05-29,residential,20
+Argentina,Tierra del Fuego,2020-05-30,retail_and_recreation,-61
+Argentina,Tierra del Fuego,2020-05-30,grocery_and_pharmacy,-16
+Argentina,Tierra del Fuego,2020-05-30,parks,-74
+Argentina,Tierra del Fuego,2020-05-30,transit_stations,-72
+Argentina,Tierra del Fuego,2020-05-30,workplaces,-14
+Argentina,Tierra del Fuego,2020-05-30,residential,16
+Argentina,Tierra del Fuego,2020-05-31,retail_and_recreation,-76
+Argentina,Tierra del Fuego,2020-05-31,grocery_and_pharmacy,-30
+Argentina,Tierra del Fuego,2020-05-31,parks,-76
+Argentina,Tierra del Fuego,2020-05-31,transit_stations,-86
+Argentina,Tierra del Fuego,2020-05-31,workplaces,-28
+Argentina,Tierra del Fuego,2020-05-31,residential,15
+Argentina,Tierra del Fuego,2020-06-01,retail_and_recreation,-76
+Argentina,Tierra del Fuego,2020-06-01,grocery_and_pharmacy,-43
+Argentina,Tierra del Fuego,2020-06-01,parks,-73
+Argentina,Tierra del Fuego,2020-06-01,transit_stations,-79
+Argentina,Tierra del Fuego,2020-06-01,workplaces,-54
+Argentina,Tierra del Fuego,2020-06-01,residential,23
+Argentina,Tierra del Fuego,2020-06-02,retail_and_recreation,-60
+Argentina,Tierra del Fuego,2020-06-02,grocery_and_pharmacy,-24
+Argentina,Tierra del Fuego,2020-06-02,parks,-74
+Argentina,Tierra del Fuego,2020-06-02,transit_stations,-74
+Argentina,Tierra del Fuego,2020-06-02,workplaces,-23
+Argentina,Tierra del Fuego,2020-06-02,residential,15
+Argentina,Tierra del Fuego,2020-06-03,retail_and_recreation,-59
+Argentina,Tierra del Fuego,2020-06-03,grocery_and_pharmacy,-19
+Argentina,Tierra del Fuego,2020-06-03,parks,-71
+Argentina,Tierra del Fuego,2020-06-03,transit_stations,-72
+Argentina,Tierra del Fuego,2020-06-03,workplaces,-20
+Argentina,Tierra del Fuego,2020-06-03,residential,15
+Argentina,Tierra del Fuego,2020-06-04,retail_and_recreation,-52
+Argentina,Tierra del Fuego,2020-06-04,grocery_and_pharmacy,-8
+Argentina,Tierra del Fuego,2020-06-04,parks,-70
+Argentina,Tierra del Fuego,2020-06-04,transit_stations,-67
+Argentina,Tierra del Fuego,2020-06-04,workplaces,-20
+Argentina,Tierra del Fuego,2020-06-04,residential,14
+Argentina,Tierra del Fuego,2020-06-05,retail_and_recreation,-48
+Argentina,Tierra del Fuego,2020-06-05,grocery_and_pharmacy,-7
+Argentina,Tierra del Fuego,2020-06-05,parks,-69
+Argentina,Tierra del Fuego,2020-06-05,transit_stations,-71
+Argentina,Tierra del Fuego,2020-06-05,workplaces,-17
+Argentina,Tierra del Fuego,2020-06-05,residential,16
+Argentina,Tierra del Fuego,2020-06-06,retail_and_recreation,-46
+Argentina,Tierra del Fuego,2020-06-06,grocery_and_pharmacy,0
+Argentina,Tierra del Fuego,2020-06-06,parks,-74
+Argentina,Tierra del Fuego,2020-06-06,transit_stations,-75
+Argentina,Tierra del Fuego,2020-06-06,workplaces,-9
+Argentina,Tierra del Fuego,2020-06-06,residential,12
+Argentina,Tierra del Fuego,2020-06-07,retail_and_recreation,-68
+Argentina,Tierra del Fuego,2020-06-07,grocery_and_pharmacy,-22
+Argentina,Tierra del Fuego,2020-06-07,parks,-74
+Argentina,Tierra del Fuego,2020-06-07,transit_stations,-86
+Argentina,Tierra del Fuego,2020-06-07,workplaces,-24
+Argentina,Tierra del Fuego,2020-06-07,residential,12
 Argentina,Tucumán,2020-02-15,retail_and_recreation,9
 Argentina,Tucumán,2020-02-15,grocery_and_pharmacy,4
 Argentina,Tucumán,2020-02-15,parks,-7
@@ -15749,3 +17045,57 @@ Argentina,Tucumán,2020-05-29,parks,-65
 Argentina,Tucumán,2020-05-29,transit_stations,-61
 Argentina,Tucumán,2020-05-29,workplaces,-10
 Argentina,Tucumán,2020-05-29,residential,13
+Argentina,Tucumán,2020-05-30,retail_and_recreation,-59
+Argentina,Tucumán,2020-05-30,grocery_and_pharmacy,-3
+Argentina,Tucumán,2020-05-30,parks,-74
+Argentina,Tucumán,2020-05-30,transit_stations,-67
+Argentina,Tucumán,2020-05-30,workplaces,-3
+Argentina,Tucumán,2020-05-30,residential,13
+Argentina,Tucumán,2020-05-31,retail_and_recreation,-73
+Argentina,Tucumán,2020-05-31,grocery_and_pharmacy,-17
+Argentina,Tucumán,2020-05-31,parks,-80
+Argentina,Tucumán,2020-05-31,transit_stations,-81
+Argentina,Tucumán,2020-05-31,workplaces,-9
+Argentina,Tucumán,2020-05-31,residential,16
+Argentina,Tucumán,2020-06-01,retail_and_recreation,-57
+Argentina,Tucumán,2020-06-01,grocery_and_pharmacy,-8
+Argentina,Tucumán,2020-06-01,parks,-68
+Argentina,Tucumán,2020-06-01,transit_stations,-59
+Argentina,Tucumán,2020-06-01,workplaces,-10
+Argentina,Tucumán,2020-06-01,residential,13
+Argentina,Tucumán,2020-06-02,retail_and_recreation,-55
+Argentina,Tucumán,2020-06-02,grocery_and_pharmacy,-8
+Argentina,Tucumán,2020-06-02,parks,-65
+Argentina,Tucumán,2020-06-02,transit_stations,-60
+Argentina,Tucumán,2020-06-02,workplaces,-11
+Argentina,Tucumán,2020-06-02,residential,12
+Argentina,Tucumán,2020-06-03,retail_and_recreation,-55
+Argentina,Tucumán,2020-06-03,grocery_and_pharmacy,-5
+Argentina,Tucumán,2020-06-03,parks,-63
+Argentina,Tucumán,2020-06-03,transit_stations,-54
+Argentina,Tucumán,2020-06-03,workplaces,-10
+Argentina,Tucumán,2020-06-03,residential,11
+Argentina,Tucumán,2020-06-04,retail_and_recreation,-59
+Argentina,Tucumán,2020-06-04,grocery_and_pharmacy,-12
+Argentina,Tucumán,2020-06-04,parks,-71
+Argentina,Tucumán,2020-06-04,transit_stations,-60
+Argentina,Tucumán,2020-06-04,workplaces,-13
+Argentina,Tucumán,2020-06-04,residential,13
+Argentina,Tucumán,2020-06-05,retail_and_recreation,-52
+Argentina,Tucumán,2020-06-05,grocery_and_pharmacy,3
+Argentina,Tucumán,2020-06-05,parks,-60
+Argentina,Tucumán,2020-06-05,transit_stations,-58
+Argentina,Tucumán,2020-06-05,workplaces,-8
+Argentina,Tucumán,2020-06-05,residential,12
+Argentina,Tucumán,2020-06-06,retail_and_recreation,-53
+Argentina,Tucumán,2020-06-06,grocery_and_pharmacy,6
+Argentina,Tucumán,2020-06-06,parks,-66
+Argentina,Tucumán,2020-06-06,transit_stations,-63
+Argentina,Tucumán,2020-06-06,workplaces,0
+Argentina,Tucumán,2020-06-06,residential,11
+Argentina,Tucumán,2020-06-07,retail_and_recreation,-66
+Argentina,Tucumán,2020-06-07,grocery_and_pharmacy,-3
+Argentina,Tucumán,2020-06-07,parks,-70
+Argentina,Tucumán,2020-06-07,transit_stations,-77
+Argentina,Tucumán,2020-06-07,workplaces,0
+Argentina,Tucumán,2020-06-07,residential,13
