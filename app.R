@@ -9,7 +9,15 @@ df <- read_csv(file = "https://www.gstatic.com/covid19/mobility/Global_Mobility_
 # transform to tidy data
 df <- df %>% 
   filter(country_region_code == "AR") %>% 
-  select(-c(country_region_code, sub_region_2, iso_3166_2_code, census_fips_code)) %>% 
+  select(country_region, 
+         sub_region_1, 
+         date, 
+         retail_and_recreation_percent_change_from_baseline, 
+         grocery_and_pharmacy_percent_change_from_baseline,
+         parks_percent_change_from_baseline, 
+         transit_stations_percent_change_from_baseline, 
+         workplaces_percent_change_from_baseline, 
+         residential_percent_change_from_baseline) %>% 
   pivot_longer(-c(country_region, sub_region_1, date), names_to = "type", values_to = "values") %>% 
   mutate(sub_region_1 = sub("Buenos Aires$", "CABA", sub_region_1)) %>% 
   mutate(sub_region_1 = sub("* Province", "", sub_region_1)) %>%
@@ -88,7 +96,7 @@ server <- function(input, output, session) {
     # make ggplot 
     p <- ggplot(df_filtered, aes(x = date, y = values, color = type)) +
       geom_line() +
-      scale_x_date(date_breaks = "4 days", date_labels = "%a, %d-%b") +
+      scale_x_date(date_breaks = "7 days", date_labels = "%a, %d-%b") +
       labs(
         title = paste("Mostrando datos de", input$provinceInput),
         # subtitle = paste("Selected date range from ", input$dateInput[[1]], "to", input$dateInput[[2]]),
@@ -118,5 +126,3 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-
-
