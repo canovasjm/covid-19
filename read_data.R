@@ -2,11 +2,23 @@
 library(tidyverse)
 
 # read data
-df <- read_csv(file = "https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=722f3143b586a83f")
+df_may <- read_csv("data/google_mobility_report_2020-07-25.csv")
+df_new_raw <- read_csv(file = "https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=722f3143b586a83f")
+
+# filter data to update
+df_may <- df_may %>% filter(country_region_code == 'AR') %>% arrange(sub_region_1, date)
+df_new <- df_new_raw %>% filter(country_region_code == 'AR' & date > '2020-07-21' ) %>% arrange(sub_region_1, date)
+
+# group by and aggregate df_new_raw to create df_new
+df_new <- df_new %>%
+  group_by(country_region_code, country_region, sub_region_1, date) %>%
+  summarise(across(ends_with("baseline"), ~median(.x, na.rm = TRUE)))
+
+# row bind data sets
+df_updated <- bind_rows(df_may, df_new, .id = 'id')
 
 # transform to tidy data
-df1 <- df %>% 
-  filter(country_region_code == "AR") %>% 
+df <- df_updated %>% 
   select(country_region, 
          sub_region_1, 
          date, 
@@ -23,5 +35,5 @@ df1 <- df %>%
   mutate(type = sub("_percent_change_from_baseline$", "", type))
 
 # write data
-write_csv(df, path = paste0("data/google_mobility_report_", Sys.Date(), ".csv"))
-write_csv(df1, path = "data/google_mobility_report.csv")
+write_csv(df_new_raw, path = paste0("data/google_mobility_report_", Sys.Date(), ".csv"))
+write_csv(df, path = "data/google_mobility_report.csv")
