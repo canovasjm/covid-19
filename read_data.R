@@ -1,15 +1,20 @@
 # required libraries ------------------------------------------------------
 library(tidyverse)
 
-# read data
+# read data ---------------------------------------------------------------
+# read and filter data from may
 df_may <- read_csv("data/google_mobility_report_2020-07-25.csv")
-df_new_raw <- read_csv(file = "https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=722f3143b586a83f")
+df_may <- df_may %>% filter(country_region_code == 'AR') %>% arrange(sub_region_1, date)
 
 # filter data to update
-df_may <- df_may %>% filter(country_region_code == 'AR') %>% arrange(sub_region_1, date)
+df_new_raw <- read_csv(file = "https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=722f3143b586a83f")
 df_new <- df_new_raw %>% filter(country_region_code == 'AR' & date > '2020-07-21' ) %>% arrange(sub_region_1, date)
 
-# group by and aggregate df_new_raw to create df_new
+# filter data to save in GitHub as backup
+df_to_bkp <- df_new_raw %>% filter(country_region_code == 'AR')
+
+# process data ------------------------------------------------------------
+# group by and aggregate df_new to create df_new
 df_new <- df_new %>%
   group_by(country_region_code, country_region, sub_region_1, date) %>%
   summarise(across(ends_with("baseline"), ~median(.x, na.rm = TRUE)))
@@ -34,6 +39,6 @@ df <- df_updated %>%
   mutate(sub_region_1 = replace_na(sub_region_1, "Todas las provincias")) %>% 
   mutate(type = sub("_percent_change_from_baseline$", "", type))
 
-# write data
-write_csv(df_new_raw, path = paste0("data/google_mobility_report_", Sys.Date(), ".csv"))
+# write data --------------------------------------------------------------
+write_csv(df_to_bkp, path = paste0("data/google_mobility_report_", Sys.Date(), ".csv"))
 write_csv(df, path = "data/google_mobility_report.csv")
