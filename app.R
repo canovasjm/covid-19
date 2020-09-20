@@ -76,7 +76,14 @@ server <- function(input, output, session) {
                           sub_region_1 == input$provinceInput)
 
     # make ggplot 
-    p <- ggplot(df_filtered, aes(x = date, y = values, color = type)) +
+    p <- ggplot(df_filtered, aes(x = date, 
+                                 y = values, 
+                                 color = type, 
+                                 group = 1, 
+                                 text = paste("</br>Fecha: ", date,
+                                              "</br>Valor: ", values,
+                                              "</br>Tipo: ", type)
+                                 )) +
       geom_line() +
       scale_x_date(date_breaks = "7 days", date_labels = "%a, %d-%b") +
       labs(
@@ -92,7 +99,7 @@ server <- function(input, output, session) {
       theme(axis.text.x = element_text(angle = 45, hjust = 1), legend.position = "bottom")
     
     # make that ggplot interactive with plotly
-    ggplotly(p, tooltip = c("all"))
+    ggplotly(p, tooltip = "text")
   })
   
   # reset button
