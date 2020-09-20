@@ -28,22 +28,28 @@ df_updated <- bind_rows(df_may, df_new, .id = 'id')
 
 # transform to tidy data
 df <- df_updated %>% 
-  select(country_region, 
-         sub_region_1, 
-         date, 
-         retail_and_recreation_percent_change_from_baseline, 
-         grocery_and_pharmacy_percent_change_from_baseline,
-         parks_percent_change_from_baseline, 
-         transit_stations_percent_change_from_baseline, 
-         workplaces_percent_change_from_baseline, 
-         residential_percent_change_from_baseline) %>% 
-  pivot_longer(-c(country_region, sub_region_1, date), names_to = "type", values_to = "values") %>% 
+  select(
+    country_region, 
+    sub_region_1, 
+    date, 
+    retail_and_recreation_percent_change_from_baseline, 
+    grocery_and_pharmacy_percent_change_from_baseline,
+    parks_percent_change_from_baseline, 
+    transit_stations_percent_change_from_baseline, 
+    workplaces_percent_change_from_baseline, 
+    residential_percent_change_from_baseline
+  ) %>% 
+  pivot_longer(
+    -c(country_region, sub_region_1, date), 
+    names_to = "type", 
+    values_to = "values"
+  ) %>% 
   mutate(
     sub_region_1 = sub("Buenos Aires$", "CABA", sub_region_1), 
     sub_region_1 = sub("* Province", "", sub_region_1),
     sub_region_1 = replace_na(sub_region_1, "Todas las provincias"),
     type = sub("_percent_change_from_baseline$", "", type)
-    )
+  )
 
 # write data --------------------------------------------------------------
 write_csv(df_to_bkp, path = paste0("data/google_mobility_report_", Sys.Date(), ".csv"))
